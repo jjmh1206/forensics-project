@@ -1,0 +1,189 @@
+{
+  "guild": {
+    "id": "1340709945162727444",
+    "name": "Eric's Echo Chamber",
+    "iconUrl": "assets\\efadb34dc41325dbe377999e07d2679c-6B627.png"
+  },
+  "channel": {
+    "id": "1340713177696178186",
+    "type": "GuildTextChat",
+    "categoryId": "1340709946014044291",
+    "category": "Text Channels",
+    "name": "irl",
+    "topic": "Anything interesting irl feel free to post here!"
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2025-03-31T18:17:36.1283592+01:00",
+  "messages": [
+    {
+      "id": "1350235596848631849",
+      "type": "Default",
+      "timestamp": "2025-03-14T22:34:12.453+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "oh yeah, went out for a hike on arthurs seat after eatin at mosque kitchen with some mates",
+      "author": {
+        "id": "1340718563727642684",
+        "name": "zerofrequency__67159",
+        "discriminator": "0000",
+        "nickname": "ZeroFrequency",
+        "color": "#F1C40F",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1340711624075509811",
+            "name": "Member",
+            "color": "#F1C40F",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "assets\\2b72a1829e7d15c1b8ca083f439bf0ac-57F07.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1350235658354167960",
+      "type": "Default",
+      "timestamp": "2025-03-14T22:34:27.117+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1340718563727642684",
+        "name": "zerofrequency__67159",
+        "discriminator": "0000",
+        "nickname": "ZeroFrequency",
+        "color": "#F1C40F",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1340711624075509811",
+            "name": "Member",
+            "color": "#F1C40F",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "assets\\2b72a1829e7d15c1b8ca083f439bf0ac-57F07.png"
+      },
+      "attachments": [
+        {
+          "id": "1350235655925665967",
+          "url": "assets\\rl5-697F0.jpg",
+          "fileName": "rl5.jpg",
+          "fileSizeBytes": 947819
+        },
+        {
+          "id": "1350235656495824988",
+          "url": "assets\\rl4-89D79.jpg",
+          "fileName": "rl4.jpg",
+          "fileSizeBytes": 503665
+        },
+        {
+          "id": "1350235656978301020",
+          "url": "assets\\rl3-B03CE.jpg",
+          "fileName": "rl3.jpg",
+          "fileSizeBytes": 565869
+        },
+        {
+          "id": "1350235657510850571",
+          "url": "assets\\rl2-9D977.jpg",
+          "fileName": "rl2.jpg",
+          "fileSizeBytes": 636142
+        },
+        {
+          "id": "1350235658039328828",
+          "url": "assets\\rl1-6AC13.jpg",
+          "fileName": "rl1.jpg",
+          "fileSizeBytes": 720909
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1350235820941906011",
+      "type": "Default",
+      "timestamp": "2025-03-14T22:35:05.881+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "beautiful weather today. was worried itd rain since it was raining a few times last night",
+      "author": {
+        "id": "1340718563727642684",
+        "name": "zerofrequency__67159",
+        "discriminator": "0000",
+        "nickname": "ZeroFrequency",
+        "color": "#F1C40F",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1340711624075509811",
+            "name": "Member",
+            "color": "#F1C40F",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "assets\\2b72a1829e7d15c1b8ca083f439bf0ac-57F07.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1350237745066545164",
+      "type": "Default",
+      "timestamp": "2025-03-14T22:42:44.628+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1340718563727642684",
+        "name": "zerofrequency__67159",
+        "discriminator": "0000",
+        "nickname": "ZeroFrequency",
+        "color": "#F1C40F",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1340711624075509811",
+            "name": "Member",
+            "color": "#F1C40F",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "assets\\2b72a1829e7d15c1b8ca083f439bf0ac-57F07.png"
+      },
+      "attachments": [
+        {
+          "id": "1350237744915283968",
+          "url": "assets\\20250314_170901-7AB39.mp4",
+          "fileName": "20250314_170901.mp4",
+          "fileSizeBytes": 1819496
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 4
+}

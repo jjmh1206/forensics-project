@@ -1,0 +1,467 @@
+{
+  "guild": {
+    "id": "1340709945162727444",
+    "name": "Eric's Echo Chamber",
+    "iconUrl": "assets\\efadb34dc41325dbe377999e07d2679c-6B627.png"
+  },
+  "channel": {
+    "id": "1340713164899094558",
+    "type": "GuildTextChat",
+    "categoryId": "1340709946014044291",
+    "category": "Text Channels",
+    "name": "gaming",
+    "topic": "For gaming news or sessions!"
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2025-03-31T18:17:24.1538107+01:00",
+  "messages": [
+    {
+      "id": "1348714145729478676",
+      "type": "Default",
+      "timestamp": "2025-03-10T17:48:30.239+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Guys I'm just home from work... anyone up for some chess??",
+      "author": {
+        "id": "1340714666405531689",
+        "name": "jaythedude690_37803",
+        "discriminator": "0000",
+        "nickname": "JayTheDude",
+        "color": "#F1C40F",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1340711624075509811",
+            "name": "Member",
+            "color": "#F1C40F",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "assets\\ba399c63b3d301db2decf2916d4385e3-13D41.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1348714257788702721",
+      "type": "Default",
+      "timestamp": "2025-03-10T17:48:56.956+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://lichess.org/5HFfZn4W",
+      "author": {
+        "id": "1340714666405531689",
+        "name": "jaythedude690_37803",
+        "discriminator": "0000",
+        "nickname": "JayTheDude",
+        "color": "#F1C40F",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1340711624075509811",
+            "name": "Member",
+            "color": "#F1C40F",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "assets\\ba399c63b3d301db2decf2916d4385e3-13D41.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Correspondence casual Chess • Challenge from Anonymous",
+          "url": "https://lichess.org/5HFfZn4W",
+          "timestamp": null,
+          "description": "Join the challenge or watch the game here.",
+          "color": "#2E2A24",
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1348714761293926500",
+      "type": "Default",
+      "timestamp": "2025-03-10T17:50:57.001+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Yeah sure, just got off work, was talking with Daniel earlier and hes been soft banned LOL",
+      "author": {
+        "id": "1340706353613901927",
+        "name": "ezericc_88003",
+        "discriminator": "0000",
+        "nickname": "EZericc",
+        "color": "#2ECC71",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1340711193714753639",
+            "name": "Admin+",
+            "color": "#2ECC71",
+            "position": 2
+          },
+          {
+            "id": "1340711624075509811",
+            "name": "Member",
+            "color": "#F1C40F",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "assets\\c9670df5cec50e2a7983a2670d40b791-36A36.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1348714775411953836",
+      "type": "Default",
+      "timestamp": "2025-03-10T17:51:00.367+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Joining now",
+      "author": {
+        "id": "1340706353613901927",
+        "name": "ezericc_88003",
+        "discriminator": "0000",
+        "nickname": "EZericc",
+        "color": "#2ECC71",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1340711193714753639",
+            "name": "Admin+",
+            "color": "#2ECC71",
+            "position": 2
+          },
+          {
+            "id": "1340711624075509811",
+            "name": "Member",
+            "color": "#F1C40F",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "assets\\c9670df5cec50e2a7983a2670d40b791-36A36.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDCAF",
+            "code": "100",
+            "isAnimated": false,
+            "imageUrl": "assets\\1f4af-4CFF5.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "1340714666405531689",
+              "name": "jaythedude690_37803",
+              "discriminator": "0000",
+              "nickname": "JayTheDude",
+              "color": "#F1C40F",
+              "isBot": false,
+              "avatarUrl": "assets\\ba399c63b3d301db2decf2916d4385e3-13D41.png"
+            }
+          ]
+        }
+      ],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1348719019078717491",
+      "type": "Default",
+      "timestamp": "2025-03-10T18:07:52.136+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Nice game Eric \uD83E\uDD23",
+      "author": {
+        "id": "1340714666405531689",
+        "name": "jaythedude690_37803",
+        "discriminator": "0000",
+        "nickname": "JayTheDude",
+        "color": "#F1C40F",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1340711624075509811",
+            "name": "Member",
+            "color": "#F1C40F",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "assets\\ba399c63b3d301db2decf2916d4385e3-13D41.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": [
+        {
+          "id": "",
+          "name": "\uD83E\uDD23",
+          "code": "rofl",
+          "isAnimated": false,
+          "imageUrl": "assets\\1f923-5854E.svg"
+        }
+      ]
+    },
+    {
+      "id": "1348719165539881042",
+      "type": "Default",
+      "timestamp": "2025-03-10T18:08:27.055+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "GGs \uD83D\uDC4F",
+      "author": {
+        "id": "1340706353613901927",
+        "name": "ezericc_88003",
+        "discriminator": "0000",
+        "nickname": "EZericc",
+        "color": "#2ECC71",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1340711193714753639",
+            "name": "Admin+",
+            "color": "#2ECC71",
+            "position": 2
+          },
+          {
+            "id": "1340711624075509811",
+            "name": "Member",
+            "color": "#F1C40F",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "assets\\c9670df5cec50e2a7983a2670d40b791-36A36.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": [
+        {
+          "id": "",
+          "name": "\uD83D\uDC4F",
+          "code": "clap",
+          "isAnimated": false,
+          "imageUrl": "assets\\1f44f-3D381.svg"
+        }
+      ]
+    },
+    {
+      "id": "1348719183805808751",
+      "type": "Default",
+      "timestamp": "2025-03-10T18:08:31.41+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "-_-",
+      "author": {
+        "id": "1340714666405531689",
+        "name": "jaythedude690_37803",
+        "discriminator": "0000",
+        "nickname": "JayTheDude",
+        "color": "#F1C40F",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1340711624075509811",
+            "name": "Member",
+            "color": "#F1C40F",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "assets\\ba399c63b3d301db2decf2916d4385e3-13D41.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1351673235669782639",
+      "type": "Default",
+      "timestamp": "2025-03-18T21:46:52.258+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Just played helldivers and the bots all use incendiary weapons now. So busted",
+      "author": {
+        "id": "1340718563727642684",
+        "name": "zerofrequency__67159",
+        "discriminator": "0000",
+        "nickname": "ZeroFrequency",
+        "color": "#F1C40F",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1340711624075509811",
+            "name": "Member",
+            "color": "#F1C40F",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "assets\\2b72a1829e7d15c1b8ca083f439bf0ac-57F07.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1351673438095540380",
+      "type": "Default",
+      "timestamp": "2025-03-18T21:47:40.52+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "And new warbonds got announced https://youtu.be/sr22D9zoRjo?si=wAaY_L6PXs0lgXFk",
+      "author": {
+        "id": "1340718563727642684",
+        "name": "zerofrequency__67159",
+        "discriminator": "0000",
+        "nickname": "ZeroFrequency",
+        "color": "#F1C40F",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1340711624075509811",
+            "name": "Member",
+            "color": "#F1C40F",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "assets\\2b72a1829e7d15c1b8ca083f439bf0ac-57F07.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Helldivers 2 - Borderline Justice Warbond | PS5 & PC Games",
+          "url": "https://www.youtube.com/watch?v=sr22D9zoRjo",
+          "timestamp": null,
+          "description": "https://www.playstation.com/en-gb/games/helldivers-2/\n\nWanted! Dead or even deader: savage, freedom-hating fiends!\nIt’s High Noon, Helldivers! Round up a posse and mosey to an untamed galaxy with this Premium Warbond overloaded with weapons, explosives and armour for this season and beyond.\nRequires base game, paid purchase of Super Credits, and...",
+          "color": "#FF0000",
+          "author": {
+            "name": "PlayStation",
+            "url": "https://www.youtube.com/channel/UC-2Y8dQb0S6DtpxNgAKoJKA"
+          },
+          "thumbnail": {
+            "url": "assets\\maxresdefault-53A9F.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "video": {
+            "url": "assets\\sr22D9zoRjo-9CF03",
+            "width": 1280,
+            "height": 720
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1351674722919780472",
+      "type": "Default",
+      "timestamp": "2025-03-18T21:52:46.846+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "And the hulks now have like motors that shoot incendiary shells",
+      "author": {
+        "id": "1340718563727642684",
+        "name": "zerofrequency__67159",
+        "discriminator": "0000",
+        "nickname": "ZeroFrequency",
+        "color": "#F1C40F",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1340711624075509811",
+            "name": "Member",
+            "color": "#F1C40F",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "assets\\2b72a1829e7d15c1b8ca083f439bf0ac-57F07.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1351674801722232974",
+      "type": "Default",
+      "timestamp": "2025-03-18T21:53:05.634+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Plus flamer troopers chasing you down and devastators with their shotties",
+      "author": {
+        "id": "1340718563727642684",
+        "name": "zerofrequency__67159",
+        "discriminator": "0000",
+        "nickname": "ZeroFrequency",
+        "color": "#F1C40F",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1340711624075509811",
+            "name": "Member",
+            "color": "#F1C40F",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "assets\\2b72a1829e7d15c1b8ca083f439bf0ac-57F07.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 11
+}

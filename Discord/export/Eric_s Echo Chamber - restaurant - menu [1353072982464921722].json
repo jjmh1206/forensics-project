@@ -1,0 +1,4775 @@
+{
+  "guild": {
+    "id": "1340709945162727444",
+    "name": "Eric's Echo Chamber",
+    "iconUrl": "assets\\efadb34dc41325dbe377999e07d2679c-6B627.png"
+  },
+  "channel": {
+    "id": "1353072982464921722",
+    "type": "GuildTextChat",
+    "categoryId": "1353072776667467952",
+    "category": "restaurant",
+    "name": "menu",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2025-03-31T18:22:09.5032206+01:00",
+  "messages": [
+    {
+      "id": "1353073283322613872",
+      "type": "Default",
+      "timestamp": "2025-03-22T18:30:09.63+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I'm going to add a bot in here just for extra security for us, here we can keep everything in one place",
+      "author": {
+        "id": "1340706353613901927",
+        "name": "ezericc_88003",
+        "discriminator": "0000",
+        "nickname": "EZericc",
+        "color": "#2ECC71",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1340711193714753639",
+            "name": "Admin+",
+            "color": "#2ECC71",
+            "position": 2
+          },
+          {
+            "id": "1340711624075509811",
+            "name": "Member",
+            "color": "#F1C40F",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "assets\\c9670df5cec50e2a7983a2670d40b791-36A36.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1353081553617682485",
+      "type": "Default",
+      "timestamp": "2025-03-22T19:03:01.422+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "EZericc: ATFLRg==",
+      "author": {
+        "id": "1347508412195409991",
+        "name": "CipherBot",
+        "discriminator": "8830",
+        "nickname": "CipherBot",
+        "color": null,
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1353076902910365800",
+            "name": "CipherBot",
+            "color": null,
+            "position": 1
+          }
+        ],
+        "avatarUrl": "assets\\0-EB806.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1353084778185756754",
+      "type": "Default",
+      "timestamp": "2025-03-22T19:15:50.219+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Mirror Man: ATFLRg==",
+      "author": {
+        "id": "1347508412195409991",
+        "name": "CipherBot",
+        "discriminator": "8830",
+        "nickname": "CipherBot",
+        "color": null,
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1353076902910365800",
+            "name": "CipherBot",
+            "color": null,
+            "position": 1
+          }
+        ],
+        "avatarUrl": "assets\\0-EB806.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1353086820392370269",
+      "type": "Default",
+      "timestamp": "2025-03-22T19:23:57.119+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Memphis: ATFLRg==",
+      "author": {
+        "id": "1347508412195409991",
+        "name": "CipherBot",
+        "discriminator": "8830",
+        "nickname": "CipherBot",
+        "color": null,
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1353076902910365800",
+            "name": "CipherBot",
+            "color": null,
+            "position": 1
+          }
+        ],
+        "avatarUrl": "assets\\0-EB806.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1353086933839908926",
+      "type": "Default",
+      "timestamp": "2025-03-22T19:24:24.167+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Sphinx: ITFLRgFXNw==",
+      "author": {
+        "id": "1347508412195409991",
+        "name": "CipherBot",
+        "discriminator": "8830",
+        "nickname": "CipherBot",
+        "color": null,
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1353076902910365800",
+            "name": "CipherBot",
+            "color": null,
+            "position": 1
+          }
+        ],
+        "avatarUrl": "assets\\0-EB806.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1353087126555594853",
+      "type": "Default",
+      "timestamp": "2025-03-22T19:25:10.114+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Sphinx: Gz1bVw==",
+      "author": {
+        "id": "1347508412195409991",
+        "name": "CipherBot",
+        "discriminator": "8830",
+        "nickname": "CipherBot",
+        "color": null,
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1353076902910365800",
+            "name": "CipherBot",
+            "color": null,
+            "position": 1
+          }
+        ],
+        "avatarUrl": "assets\\0-EB806.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1353088403045879808",
+      "type": "Default",
+      "timestamp": "2025-03-22T19:30:14.453+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Sphinx: ECZRWUQZKQMYHDR6RBc1C3hSSgUpAlRBPgs/G1kxBy8ad10+FhUhCDVaPFke",
+      "author": {
+        "id": "1347508412195409991",
+        "name": "CipherBot",
+        "discriminator": "8830",
+        "nickname": "CipherBot",
+        "color": null,
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1353076902910365800",
+            "name": "CipherBot",
+            "color": null,
+            "position": 1
+          }
+        ],
+        "avatarUrl": "assets\\0-EB806.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1353469482999480343",
+      "type": "Default",
+      "timestamp": "2025-03-23T20:44:30.994+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "okay I found some food for the menu, how do I share them??",
+      "author": {
+        "id": "1340714666405531689",
+        "name": "jaythedude690_37803",
+        "discriminator": "0000",
+        "nickname": "JayTheDude",
+        "color": "#F1C40F",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1340711624075509811",
+            "name": "Member",
+            "color": "#F1C40F",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "assets\\ba399c63b3d301db2decf2916d4385e3-13D41.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1353470387882688565",
+      "type": "Default",
+      "timestamp": "2025-03-23T20:48:06.735+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Zip them , put a password and send them to my new email : rogerm3chan1c@gmail.com - I think this is the safest way",
+      "author": {
+        "id": "1349086669797589114",
+        "name": "roger_the_mechan1c_53327",
+        "discriminator": "0000",
+        "nickname": "Roger",
+        "color": "#F1C40F",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1340711624075509811",
+            "name": "Member",
+            "color": "#F1C40F",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "assets\\2-ADBB4.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1353470515964149931",
+      "type": "Default",
+      "timestamp": "2025-03-23T20:48:37.272+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "ok cool",
+      "author": {
+        "id": "1340714666405531689",
+        "name": "jaythedude690_37803",
+        "discriminator": "0000",
+        "nickname": "JayTheDude",
+        "color": "#F1C40F",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1340711624075509811",
+            "name": "Member",
+            "color": "#F1C40F",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "assets\\ba399c63b3d301db2decf2916d4385e3-13D41.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1353470536088555560",
+      "type": "Default",
+      "timestamp": "2025-03-23T20:48:42.07+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "right, sounds good",
+      "author": {
+        "id": "1340718563727642684",
+        "name": "zerofrequency__67159",
+        "discriminator": "0000",
+        "nickname": "ZeroFrequency",
+        "color": "#F1C40F",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1340711624075509811",
+            "name": "Member",
+            "color": "#F1C40F",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "assets\\2b72a1829e7d15c1b8ca083f439bf0ac-57F07.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDE4F",
+            "code": "pray",
+            "isAnimated": false,
+            "imageUrl": "assets\\1f64f-22B8D.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "1349086669797589114",
+              "name": "roger_the_mechan1c_53327",
+              "discriminator": "0000",
+              "nickname": "Roger",
+              "color": "#F1C40F",
+              "isBot": false,
+              "avatarUrl": "assets\\2-ADBB4.png"
+            }
+          ]
+        }
+      ],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1353470633438351500",
+      "type": "Default",
+      "timestamp": "2025-03-23T20:49:05.28+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I will try and email you them... i found them yesterday when I was out for a run",
+      "author": {
+        "id": "1340714666405531689",
+        "name": "jaythedude690_37803",
+        "discriminator": "0000",
+        "nickname": "JayTheDude",
+        "color": "#F1C40F",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1340711624075509811",
+            "name": "Member",
+            "color": "#F1C40F",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "assets\\ba399c63b3d301db2decf2916d4385e3-13D41.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1353470822433689611",
+      "type": "Default",
+      "timestamp": "2025-03-23T20:49:50.34+00:00",
+      "timestampEdited": "2025-03-23T20:49:53.822+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "A good start , I'll try to find some tomorrow.",
+      "author": {
+        "id": "1349086669797589114",
+        "name": "roger_the_mechan1c_53327",
+        "discriminator": "0000",
+        "nickname": "Roger",
+        "color": "#F1C40F",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1340711624075509811",
+            "name": "Member",
+            "color": "#F1C40F",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "assets\\2-ADBB4.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1353471168941920409",
+      "type": "Default",
+      "timestamp": "2025-03-23T20:51:12.954+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "yeah same",
+      "author": {
+        "id": "1340718563727642684",
+        "name": "zerofrequency__67159",
+        "discriminator": "0000",
+        "nickname": "ZeroFrequency",
+        "color": "#F1C40F",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1340711624075509811",
+            "name": "Member",
+            "color": "#F1C40F",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "assets\\2b72a1829e7d15c1b8ca083f439bf0ac-57F07.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1353471642713722953",
+      "type": "Default",
+      "timestamp": "2025-03-23T20:53:05.91+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "oh yeah, roger. i might dm u some videos that might prove useful",
+      "author": {
+        "id": "1340718563727642684",
+        "name": "zerofrequency__67159",
+        "discriminator": "0000",
+        "nickname": "ZeroFrequency",
+        "color": "#F1C40F",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1340711624075509811",
+            "name": "Member",
+            "color": "#F1C40F",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "assets\\2b72a1829e7d15c1b8ca083f439bf0ac-57F07.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "code": "thumbsup",
+            "isAnimated": false,
+            "imageUrl": "assets\\1f44d-27259.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "1349086669797589114",
+              "name": "roger_the_mechan1c_53327",
+              "discriminator": "0000",
+              "nickname": "Roger",
+              "color": "#F1C40F",
+              "isBot": false,
+              "avatarUrl": "assets\\2-ADBB4.png"
+            }
+          ]
+        }
+      ],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1353472781462802503",
+      "type": "Default",
+      "timestamp": "2025-03-23T20:57:37.409+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I sent them Roger",
+      "author": {
+        "id": "1340714666405531689",
+        "name": "jaythedude690_37803",
+        "discriminator": "0000",
+        "nickname": "JayTheDude",
+        "color": "#F1C40F",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1340711624075509811",
+            "name": "Member",
+            "color": "#F1C40F",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "assets\\ba399c63b3d301db2decf2916d4385e3-13D41.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1353472928640929923",
+      "type": "Default",
+      "timestamp": "2025-03-23T20:58:12.499+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Tumbler: ATxdEhhYIx8aASM+FwQ5EXhHAg5sClkRcg0g",
+      "author": {
+        "id": "1347508412195409991",
+        "name": "CipherBot",
+        "discriminator": "8830",
+        "nickname": "CipherBot",
+        "color": null,
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1353076902910365800",
+            "name": "CipherBot",
+            "color": null,
+            "position": 1
+          }
+        ],
+        "avatarUrl": "assets\\0-EB806.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1353473104218820728",
+      "type": "Default",
+      "timestamp": "2025-03-23T20:58:54.36+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Tumbler: IDpUXQtSFgMCCg==",
+      "author": {
+        "id": "1347508412195409991",
+        "name": "CipherBot",
+        "discriminator": "8830",
+        "nickname": "CipherBot",
+        "color": null,
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1353076902910365800",
+            "name": "CipherBot",
+            "color": null,
+            "position": 1
+          }
+        ],
+        "avatarUrl": "assets\\0-EB806.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1353473321332773006",
+      "type": "Reply",
+      "timestamp": "2025-03-23T20:59:46.124+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "if we're browsing should we use a VPN or something to stay safe?",
+      "author": {
+        "id": "1340714666405531689",
+        "name": "jaythedude690_37803",
+        "discriminator": "0000",
+        "nickname": "JayTheDude",
+        "color": "#F1C40F",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1340711624075509811",
+            "name": "Member",
+            "color": "#F1C40F",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "assets\\ba399c63b3d301db2decf2916d4385e3-13D41.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1340718563727642684",
+          "name": "zerofrequency__67159",
+          "discriminator": "0000",
+          "nickname": "ZeroFrequency",
+          "color": "#F1C40F",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1340711624075509811",
+              "name": "Member",
+              "color": "#F1C40F",
+              "position": 1
+            }
+          ],
+          "avatarUrl": "assets\\2b72a1829e7d15c1b8ca083f439bf0ac-57F07.png"
+        }
+      ],
+      "reference": {
+        "messageId": "1353471642713722953",
+        "channelId": "1353072982464921722",
+        "guildId": "1340709945162727444"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1353473794030698636",
+      "type": "Default",
+      "timestamp": "2025-03-23T21:01:38.824+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "oh youre right, we should leave little traces so we dont seem suspicious",
+      "author": {
+        "id": "1340718563727642684",
+        "name": "zerofrequency__67159",
+        "discriminator": "0000",
+        "nickname": "ZeroFrequency",
+        "color": "#F1C40F",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1340711624075509811",
+            "name": "Member",
+            "color": "#F1C40F",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "assets\\2b72a1829e7d15c1b8ca083f439bf0ac-57F07.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1353473889778270349",
+      "type": "Default",
+      "timestamp": "2025-03-23T21:02:01.652+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I bet Eric would have a good one to use \uD83E\uDD23  do either of you??",
+      "author": {
+        "id": "1340714666405531689",
+        "name": "jaythedude690_37803",
+        "discriminator": "0000",
+        "nickname": "JayTheDude",
+        "color": "#F1C40F",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1340711624075509811",
+            "name": "Member",
+            "color": "#F1C40F",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "assets\\ba399c63b3d301db2decf2916d4385e3-13D41.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": [
+        {
+          "id": "",
+          "name": "\uD83E\uDD23",
+          "code": "rofl",
+          "isAnimated": false,
+          "imageUrl": "assets\\1f923-5854E.svg"
+        }
+      ]
+    },
+    {
+      "id": "1353473889900167199",
+      "type": "Reply",
+      "timestamp": "2025-03-23T21:02:01.681+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Got them. Those cars look decent , just few more to go.",
+      "author": {
+        "id": "1349086669797589114",
+        "name": "roger_the_mechan1c_53327",
+        "discriminator": "0000",
+        "nickname": "Roger",
+        "color": "#F1C40F",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1340711624075509811",
+            "name": "Member",
+            "color": "#F1C40F",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "assets\\2-ADBB4.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "code": "thumbsup",
+            "isAnimated": false,
+            "imageUrl": "assets\\1f44d-27259.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "1340714666405531689",
+              "name": "jaythedude690_37803",
+              "discriminator": "0000",
+              "nickname": "JayTheDude",
+              "color": "#F1C40F",
+              "isBot": false,
+              "avatarUrl": "assets\\ba399c63b3d301db2decf2916d4385e3-13D41.png"
+            }
+          ]
+        }
+      ],
+      "mentions": [
+        {
+          "id": "1340714666405531689",
+          "name": "jaythedude690_37803",
+          "discriminator": "0000",
+          "nickname": "JayTheDude",
+          "color": "#F1C40F",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1340711624075509811",
+              "name": "Member",
+              "color": "#F1C40F",
+              "position": 1
+            }
+          ],
+          "avatarUrl": "assets\\ba399c63b3d301db2decf2916d4385e3-13D41.png"
+        }
+      ],
+      "reference": {
+        "messageId": "1353472781462802503",
+        "channelId": "1353072982464921722",
+        "guildId": "1340709945162727444"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1353473961413054464",
+      "type": "Reply",
+      "timestamp": "2025-03-23T21:02:18.731+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Oh shit , didn't think about that. I'll do that asap",
+      "author": {
+        "id": "1349086669797589114",
+        "name": "roger_the_mechan1c_53327",
+        "discriminator": "0000",
+        "nickname": "Roger",
+        "color": "#F1C40F",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1340711624075509811",
+            "name": "Member",
+            "color": "#F1C40F",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "assets\\2-ADBB4.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1340714666405531689",
+          "name": "jaythedude690_37803",
+          "discriminator": "0000",
+          "nickname": "JayTheDude",
+          "color": "#F1C40F",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1340711624075509811",
+              "name": "Member",
+              "color": "#F1C40F",
+              "position": 1
+            }
+          ],
+          "avatarUrl": "assets\\ba399c63b3d301db2decf2916d4385e3-13D41.png"
+        }
+      ],
+      "reference": {
+        "messageId": "1353473321332773006",
+        "channelId": "1353072982464921722",
+        "guildId": "1340709945162727444"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1353474040236347488",
+      "type": "Reply",
+      "timestamp": "2025-03-23T21:02:37.524+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "that's a good shout , I'll send him a dm",
+      "author": {
+        "id": "1349086669797589114",
+        "name": "roger_the_mechan1c_53327",
+        "discriminator": "0000",
+        "nickname": "Roger",
+        "color": "#F1C40F",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1340711624075509811",
+            "name": "Member",
+            "color": "#F1C40F",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "assets\\2-ADBB4.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1340714666405531689",
+          "name": "jaythedude690_37803",
+          "discriminator": "0000",
+          "nickname": "JayTheDude",
+          "color": "#F1C40F",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1340711624075509811",
+              "name": "Member",
+              "color": "#F1C40F",
+              "position": 1
+            }
+          ],
+          "avatarUrl": "assets\\ba399c63b3d301db2decf2916d4385e3-13D41.png"
+        }
+      ],
+      "reference": {
+        "messageId": "1353473889778270349",
+        "channelId": "1353072982464921722",
+        "guildId": "1340709945162727444"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1353474214316867677",
+      "type": "Default",
+      "timestamp": "2025-03-23T21:03:19.028+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "my search history wont be looking good since ive been researching how to steal cars...",
+      "author": {
+        "id": "1340718563727642684",
+        "name": "zerofrequency__67159",
+        "discriminator": "0000",
+        "nickname": "ZeroFrequency",
+        "color": "#F1C40F",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1340711624075509811",
+            "name": "Member",
+            "color": "#F1C40F",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "assets\\2b72a1829e7d15c1b8ca083f439bf0ac-57F07.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1353474287599882250",
+      "type": "Default",
+      "timestamp": "2025-03-23T21:03:36.5+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "i heard of nordvpn that people on youtube always advertises",
+      "author": {
+        "id": "1340718563727642684",
+        "name": "zerofrequency__67159",
+        "discriminator": "0000",
+        "nickname": "ZeroFrequency",
+        "color": "#F1C40F",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1340711624075509811",
+            "name": "Member",
+            "color": "#F1C40F",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "assets\\2b72a1829e7d15c1b8ca083f439bf0ac-57F07.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1353474368377720893",
+      "type": "Default",
+      "timestamp": "2025-03-23T21:03:55.759+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "idk, maybe erik knows one thats better or something",
+      "author": {
+        "id": "1340718563727642684",
+        "name": "zerofrequency__67159",
+        "discriminator": "0000",
+        "nickname": "ZeroFrequency",
+        "color": "#F1C40F",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1340711624075509811",
+            "name": "Member",
+            "color": "#F1C40F",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "assets\\2b72a1829e7d15c1b8ca083f439bf0ac-57F07.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1353474632371540048",
+      "type": "Default",
+      "timestamp": "2025-03-23T21:04:58.7+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "oh yeah I've heard of the nord one",
+      "author": {
+        "id": "1340714666405531689",
+        "name": "jaythedude690_37803",
+        "discriminator": "0000",
+        "nickname": "JayTheDude",
+        "color": "#F1C40F",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1340711624075509811",
+            "name": "Member",
+            "color": "#F1C40F",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "assets\\ba399c63b3d301db2decf2916d4385e3-13D41.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1353474664382595093",
+      "type": "Default",
+      "timestamp": "2025-03-23T21:05:06.332+00:00",
+      "timestampEdited": "2025-03-23T21:05:17.684+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "He's the most capable IT guy I know , probably has some good ones",
+      "author": {
+        "id": "1349086669797589114",
+        "name": "roger_the_mechan1c_53327",
+        "discriminator": "0000",
+        "nickname": "Roger",
+        "color": "#F1C40F",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1340711624075509811",
+            "name": "Member",
+            "color": "#F1C40F",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "assets\\2-ADBB4.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1353475605772894339",
+      "type": "Default",
+      "timestamp": "2025-03-23T21:08:50.777+00:00",
+      "timestampEdited": "2025-03-23T21:10:52.217+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "also, i bought a cutlery set",
+      "author": {
+        "id": "1340718563727642684",
+        "name": "zerofrequency__67159",
+        "discriminator": "0000",
+        "nickname": "ZeroFrequency",
+        "color": "#F1C40F",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1340711624075509811",
+            "name": "Member",
+            "color": "#F1C40F",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "assets\\2b72a1829e7d15c1b8ca083f439bf0ac-57F07.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1353475667567575204",
+      "type": "Default",
+      "timestamp": "2025-03-23T21:09:05.51+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "im not sure if its useful but theyll arrive sometime next week",
+      "author": {
+        "id": "1340718563727642684",
+        "name": "zerofrequency__67159",
+        "discriminator": "0000",
+        "nickname": "ZeroFrequency",
+        "color": "#F1C40F",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1340711624075509811",
+            "name": "Member",
+            "color": "#F1C40F",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "assets\\2b72a1829e7d15c1b8ca083f439bf0ac-57F07.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1353477191475658783",
+      "type": "Default",
+      "timestamp": "2025-03-23T21:15:08.838+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "should we hop on vc to discuss further plans?",
+      "author": {
+        "id": "1340718563727642684",
+        "name": "zerofrequency__67159",
+        "discriminator": "0000",
+        "nickname": "ZeroFrequency",
+        "color": "#F1C40F",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1340711624075509811",
+            "name": "Member",
+            "color": "#F1C40F",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "assets\\2b72a1829e7d15c1b8ca083f439bf0ac-57F07.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1353477230021312555",
+      "type": "Default",
+      "timestamp": "2025-03-23T21:15:18.028+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "yeah good shout",
+      "author": {
+        "id": "1340714666405531689",
+        "name": "jaythedude690_37803",
+        "discriminator": "0000",
+        "nickname": "JayTheDude",
+        "color": "#F1C40F",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1340711624075509811",
+            "name": "Member",
+            "color": "#F1C40F",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "assets\\ba399c63b3d301db2decf2916d4385e3-13D41.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1353477238007271424",
+      "type": "Default",
+      "timestamp": "2025-03-23T21:15:19.932+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "sure",
+      "author": {
+        "id": "1349086669797589114",
+        "name": "roger_the_mechan1c_53327",
+        "discriminator": "0000",
+        "nickname": "Roger",
+        "color": "#F1C40F",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1340711624075509811",
+            "name": "Member",
+            "color": "#F1C40F",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "assets\\2-ADBB4.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1353478203146113198",
+      "type": "Default",
+      "timestamp": "2025-03-23T21:19:10.039+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://www.terranovasecurity.com/blog/electric-vehicle-cyber-security",
+      "author": {
+        "id": "1340718563727642684",
+        "name": "zerofrequency__67159",
+        "discriminator": "0000",
+        "nickname": "ZeroFrequency",
+        "color": "#F1C40F",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1340711624075509811",
+            "name": "Member",
+            "color": "#F1C40F",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "assets\\2b72a1829e7d15c1b8ca083f439bf0ac-57F07.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Electric Vehicle Cyber Security: Are EVs Safe from Hackers?",
+          "url": "https://www.terranovasecurity.com/blog/electric-vehicle-cyber-security",
+          "timestamp": null,
+          "description": "EVs will soon become the standard for cars worldwide. Are they safe from cyber attacks? Learn how to protect your electric vehicle from...",
+          "thumbnail": {
+            "url": "assets\\ev-hacking-EN-8DEE4.jpg",
+            "width": 1200,
+            "height": 678
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1353478502472487045",
+      "type": "Default",
+      "timestamp": "2025-03-23T21:20:21.404+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://www.youtube.com/watch?v=DJA7jDF7bLE",
+      "author": {
+        "id": "1349086669797589114",
+        "name": "roger_the_mechan1c_53327",
+        "discriminator": "0000",
+        "nickname": "Roger",
+        "color": "#F1C40F",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1340711624075509811",
+            "name": "Member",
+            "color": "#F1C40F",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "assets\\2-ADBB4.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Connecticut Kia Boyz",
+          "url": "https://www.youtube.com/watch?v=DJA7jDF7bLE",
+          "timestamp": null,
+          "description": "Here's our new video. Get the exclusive NordVPN deal here:  https://NordVPN.com/channel5 It’s risk free with Nord’s 30 day money-back guarantee!",
+          "color": "#FF0000",
+          "author": {
+            "name": "Channel 5 with Andrew Callaghan",
+            "url": "https://www.youtube.com/channel/UC-AQKm7HUNMmxjdS371MSwg"
+          },
+          "thumbnail": {
+            "url": "assets\\maxresdefault-05726.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "video": {
+            "url": "assets\\DJA7jDF7bLE-0943C",
+            "width": 1280,
+            "height": 720
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1353478582898524211",
+      "type": "Default",
+      "timestamp": "2025-03-23T21:20:40.579+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://www.oceanterminal.com/about/parking-91",
+      "author": {
+        "id": "1340718563727642684",
+        "name": "zerofrequency__67159",
+        "discriminator": "0000",
+        "nickname": "ZeroFrequency",
+        "color": "#F1C40F",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1340711624075509811",
+            "name": "Member",
+            "color": "#F1C40F",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "assets\\2b72a1829e7d15c1b8ca083f439bf0ac-57F07.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Visitor Info · Map & Opening Times · Ocean Terminal Shopping Centre",
+          "url": "https://www.oceanterminal.com/about/parking-91",
+          "timestamp": null,
+          "description": "Ocean Terminal Shopping Centre is located in Leith, Edinburgh & Open 7 Days till Late. Free Parking & Wifi Info plus Opening Times for Shops & Restaurants.",
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1353479008968249425",
+      "type": "Reply",
+      "timestamp": "2025-03-23T21:22:22.162+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1349086669797589114",
+        "name": "roger_the_mechan1c_53327",
+        "discriminator": "0000",
+        "nickname": "Roger",
+        "color": "#F1C40F",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1340711624075509811",
+            "name": "Member",
+            "color": "#F1C40F",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "assets\\2-ADBB4.png"
+      },
+      "attachments": [
+        {
+          "id": "1353479008720781522",
+          "url": "assets\\Screenshot_2025-03-23_212155-0E682.png",
+          "fileName": "Screenshot_2025-03-23_212155.png",
+          "fileSizeBytes": 520699
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83E\uDD23",
+            "code": "rofl",
+            "isAnimated": false,
+            "imageUrl": "assets\\1f923-5854E.svg"
+          },
+          "count": 2,
+          "users": [
+            {
+              "id": "1340714666405531689",
+              "name": "jaythedude690_37803",
+              "discriminator": "0000",
+              "nickname": "JayTheDude",
+              "color": "#F1C40F",
+              "isBot": false,
+              "avatarUrl": "assets\\ba399c63b3d301db2decf2916d4385e3-13D41.png"
+            },
+            {
+              "id": "1340718563727642684",
+              "name": "zerofrequency__67159",
+              "discriminator": "0000",
+              "nickname": "ZeroFrequency",
+              "color": "#F1C40F",
+              "isBot": false,
+              "avatarUrl": "assets\\2b72a1829e7d15c1b8ca083f439bf0ac-57F07.png"
+            }
+          ]
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC40",
+            "code": "eyes",
+            "isAnimated": false,
+            "imageUrl": "assets\\1f440-6C64D.svg"
+          },
+          "count": 2,
+          "users": [
+            {
+              "id": "1340718563727642684",
+              "name": "zerofrequency__67159",
+              "discriminator": "0000",
+              "nickname": "ZeroFrequency",
+              "color": "#F1C40F",
+              "isBot": false,
+              "avatarUrl": "assets\\2b72a1829e7d15c1b8ca083f439bf0ac-57F07.png"
+            },
+            {
+              "id": "1349086669797589114",
+              "name": "roger_the_mechan1c_53327",
+              "discriminator": "0000",
+              "nickname": "Roger",
+              "color": "#F1C40F",
+              "isBot": false,
+              "avatarUrl": "assets\\2-ADBB4.png"
+            }
+          ]
+        }
+      ],
+      "mentions": [
+        {
+          "id": "1340718563727642684",
+          "name": "zerofrequency__67159",
+          "discriminator": "0000",
+          "nickname": "ZeroFrequency",
+          "color": "#F1C40F",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1340711624075509811",
+              "name": "Member",
+              "color": "#F1C40F",
+              "position": 1
+            }
+          ],
+          "avatarUrl": "assets\\2b72a1829e7d15c1b8ca083f439bf0ac-57F07.png"
+        }
+      ],
+      "reference": {
+        "messageId": "1353474287599882250",
+        "channelId": "1353072982464921722",
+        "guildId": "1340709945162727444"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1353479283481378978",
+      "type": "Default",
+      "timestamp": "2025-03-23T21:23:27.611+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://www.georgemackay.co.uk/",
+      "author": {
+        "id": "1340718563727642684",
+        "name": "zerofrequency__67159",
+        "discriminator": "0000",
+        "nickname": "ZeroFrequency",
+        "color": "#F1C40F",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1340711624075509811",
+            "name": "Member",
+            "color": "#F1C40F",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "assets\\2b72a1829e7d15c1b8ca083f439bf0ac-57F07.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1353479900887121972",
+      "type": "Default",
+      "timestamp": "2025-03-23T21:25:54.812+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "okay that was a useful call... chat tomorrow morning?",
+      "author": {
+        "id": "1340714666405531689",
+        "name": "jaythedude690_37803",
+        "discriminator": "0000",
+        "nickname": "JayTheDude",
+        "color": "#F1C40F",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1340711624075509811",
+            "name": "Member",
+            "color": "#F1C40F",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "assets\\ba399c63b3d301db2decf2916d4385e3-13D41.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "code": "thumbsup",
+            "isAnimated": false,
+            "imageUrl": "assets\\1f44d-27259.svg"
+          },
+          "count": 2,
+          "users": [
+            {
+              "id": "1340718563727642684",
+              "name": "zerofrequency__67159",
+              "discriminator": "0000",
+              "nickname": "ZeroFrequency",
+              "color": "#F1C40F",
+              "isBot": false,
+              "avatarUrl": "assets\\2b72a1829e7d15c1b8ca083f439bf0ac-57F07.png"
+            },
+            {
+              "id": "1349086669797589114",
+              "name": "roger_the_mechan1c_53327",
+              "discriminator": "0000",
+              "nickname": "Roger",
+              "color": "#F1C40F",
+              "isBot": false,
+              "avatarUrl": "assets\\2-ADBB4.png"
+            }
+          ]
+        }
+      ],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1353480583589924915",
+      "type": "Default",
+      "timestamp": "2025-03-23T21:28:37.581+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "sure , I should be here around 1pm",
+      "author": {
+        "id": "1349086669797589114",
+        "name": "roger_the_mechan1c_53327",
+        "discriminator": "0000",
+        "nickname": "Roger",
+        "color": "#F1C40F",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1340711624075509811",
+            "name": "Member",
+            "color": "#F1C40F",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "assets\\2-ADBB4.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1353480649310212148",
+      "type": "Default",
+      "timestamp": "2025-03-23T21:28:53.25+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "perfect",
+      "author": {
+        "id": "1340714666405531689",
+        "name": "jaythedude690_37803",
+        "discriminator": "0000",
+        "nickname": "JayTheDude",
+        "color": "#F1C40F",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1340711624075509811",
+            "name": "Member",
+            "color": "#F1C40F",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "assets\\ba399c63b3d301db2decf2916d4385e3-13D41.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1353480726544384040",
+      "type": "Default",
+      "timestamp": "2025-03-23T21:29:11.664+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "take care guys , and stay safe",
+      "author": {
+        "id": "1349086669797589114",
+        "name": "roger_the_mechan1c_53327",
+        "discriminator": "0000",
+        "nickname": "Roger",
+        "color": "#F1C40F",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1340711624075509811",
+            "name": "Member",
+            "color": "#F1C40F",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "assets\\2-ADBB4.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1353480776225656985",
+      "type": "Default",
+      "timestamp": "2025-03-23T21:29:23.509+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "you too bro",
+      "author": {
+        "id": "1340714666405531689",
+        "name": "jaythedude690_37803",
+        "discriminator": "0000",
+        "nickname": "JayTheDude",
+        "color": "#F1C40F",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1340711624075509811",
+            "name": "Member",
+            "color": "#F1C40F",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "assets\\ba399c63b3d301db2decf2916d4385e3-13D41.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1353480791354511434",
+      "type": "Default",
+      "timestamp": "2025-03-23T21:29:27.116+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "alrighty all. take care",
+      "author": {
+        "id": "1340718563727642684",
+        "name": "zerofrequency__67159",
+        "discriminator": "0000",
+        "nickname": "ZeroFrequency",
+        "color": "#F1C40F",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1340711624075509811",
+            "name": "Member",
+            "color": "#F1C40F",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "assets\\2b72a1829e7d15c1b8ca083f439bf0ac-57F07.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "code": "thumbsup",
+            "isAnimated": false,
+            "imageUrl": "assets\\1f44d-27259.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "1340714666405531689",
+              "name": "jaythedude690_37803",
+              "discriminator": "0000",
+              "nickname": "JayTheDude",
+              "color": "#F1C40F",
+              "isBot": false,
+              "avatarUrl": "assets\\ba399c63b3d301db2decf2916d4385e3-13D41.png"
+            }
+          ]
+        }
+      ],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1353713272746147881",
+      "type": "Default",
+      "timestamp": "2025-03-24T12:53:14.999+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://www.grange.co.uk/aston-martin/find-a-dealer/aston-martin-edinburgh?utm_source=google&utm_medium=organic&utm_campaign=google_my_business&utm_content=website_button",
+      "author": {
+        "id": "1340718563727642684",
+        "name": "zerofrequency__67159",
+        "discriminator": "0000",
+        "nickname": "ZeroFrequency",
+        "color": "#F1C40F",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1340711624075509811",
+            "name": "Member",
+            "color": "#F1C40F",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "assets\\2b72a1829e7d15c1b8ca083f439bf0ac-57F07.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Aston Martin Edinburgh | Grange",
+          "url": "https://www.grange.co.uk/aston-martin/find-a-dealer/aston-martin-edinburgh?utm_source=google&utm_medium=organic&utm_campaign=google_my_business&utm_content=website_button",
+          "timestamp": null,
+          "description": "Find luxury cars from one of the world's most iconic motoring marque's at our new Grange Aston Martin Edinburgh dealership, including the amazing new DBX, Vantage and DB11. Make an enquiry today.",
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1353713607254478891",
+      "type": "Default",
+      "timestamp": "2025-03-24T12:54:34.752+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "We'll have to check that out",
+      "author": {
+        "id": "1340714666405531689",
+        "name": "jaythedude690_37803",
+        "discriminator": "0000",
+        "nickname": "JayTheDude",
+        "color": "#F1C40F",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1340711624075509811",
+            "name": "Member",
+            "color": "#F1C40F",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "assets\\ba399c63b3d301db2decf2916d4385e3-13D41.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1353713755271336087",
+      "type": "Default",
+      "timestamp": "2025-03-24T12:55:10.042+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I've got work today but will try and find some options this evening \uD83E\uDD1E",
+      "author": {
+        "id": "1340714666405531689",
+        "name": "jaythedude690_37803",
+        "discriminator": "0000",
+        "nickname": "JayTheDude",
+        "color": "#F1C40F",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1340711624075509811",
+            "name": "Member",
+            "color": "#F1C40F",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "assets\\ba399c63b3d301db2decf2916d4385e3-13D41.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": [
+        {
+          "id": "",
+          "name": "\uD83E\uDD1E",
+          "code": "fingers_crossed",
+          "isAnimated": false,
+          "imageUrl": "assets\\1f91e-2A114.svg"
+        }
+      ]
+    },
+    {
+      "id": "1353714245098930309",
+      "type": "Default",
+      "timestamp": "2025-03-24T12:57:06.826+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Sorry was out helping family all day yesterday, I'm heading out today to find some items for us",
+      "author": {
+        "id": "1340706353613901927",
+        "name": "ezericc_88003",
+        "discriminator": "0000",
+        "nickname": "EZericc",
+        "color": "#2ECC71",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1340711193714753639",
+            "name": "Admin+",
+            "color": "#2ECC71",
+            "position": 2
+          },
+          {
+            "id": "1340711624075509811",
+            "name": "Member",
+            "color": "#F1C40F",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "assets\\c9670df5cec50e2a7983a2670d40b791-36A36.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "code": "thumbsup",
+            "isAnimated": false,
+            "imageUrl": "assets\\1f44d-27259.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "1340714666405531689",
+              "name": "jaythedude690_37803",
+              "discriminator": "0000",
+              "nickname": "JayTheDude",
+              "color": "#F1C40F",
+              "isBot": false,
+              "avatarUrl": "assets\\ba399c63b3d301db2decf2916d4385e3-13D41.png"
+            }
+          ]
+        }
+      ],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1353714383599042560",
+      "type": "Default",
+      "timestamp": "2025-03-24T12:57:39.847+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Good luck... its hard to find such expensive food",
+      "author": {
+        "id": "1340714666405531689",
+        "name": "jaythedude690_37803",
+        "discriminator": "0000",
+        "nickname": "JayTheDude",
+        "color": "#F1C40F",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1340711624075509811",
+            "name": "Member",
+            "color": "#F1C40F",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "assets\\ba399c63b3d301db2decf2916d4385e3-13D41.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1353714389806616719",
+      "type": "Default",
+      "timestamp": "2025-03-24T12:57:41.327+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I honestly really appreciate what you guys are doing for me",
+      "author": {
+        "id": "1349086669797589114",
+        "name": "roger_the_mechan1c_53327",
+        "discriminator": "0000",
+        "nickname": "Roger",
+        "color": "#F1C40F",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1340711624075509811",
+            "name": "Member",
+            "color": "#F1C40F",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "assets\\2-ADBB4.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1353714527757271141",
+      "type": "Default",
+      "timestamp": "2025-03-24T12:58:14.217+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@Roger are there any items that your not able to get? Electric maybe?",
+      "author": {
+        "id": "1340706353613901927",
+        "name": "ezericc_88003",
+        "discriminator": "0000",
+        "nickname": "EZericc",
+        "color": "#2ECC71",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1340711193714753639",
+            "name": "Admin+",
+            "color": "#2ECC71",
+            "position": 2
+          },
+          {
+            "id": "1340711624075509811",
+            "name": "Member",
+            "color": "#F1C40F",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "assets\\c9670df5cec50e2a7983a2670d40b791-36A36.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1349086669797589114",
+          "name": "roger_the_mechan1c_53327",
+          "discriminator": "0000",
+          "nickname": "Roger",
+          "color": "#F1C40F",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1340711624075509811",
+              "name": "Member",
+              "color": "#F1C40F",
+              "position": 1
+            }
+          ],
+          "avatarUrl": "assets\\2-ADBB4.png"
+        }
+      ],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1353714745835917323",
+      "type": "Default",
+      "timestamp": "2025-03-24T12:59:06.211+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I need to do some research , but I think new cars might have some next level security systems.",
+      "author": {
+        "id": "1349086669797589114",
+        "name": "roger_the_mechan1c_53327",
+        "discriminator": "0000",
+        "nickname": "Roger",
+        "color": "#F1C40F",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1340711624075509811",
+            "name": "Member",
+            "color": "#F1C40F",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "assets\\2-ADBB4.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1353714823933726832",
+      "type": "Default",
+      "timestamp": "2025-03-24T12:59:24.831+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "need to find some classics with no electronics",
+      "author": {
+        "id": "1340714666405531689",
+        "name": "jaythedude690_37803",
+        "discriminator": "0000",
+        "nickname": "JayTheDude",
+        "color": "#F1C40F",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1340711624075509811",
+            "name": "Member",
+            "color": "#F1C40F",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "assets\\ba399c63b3d301db2decf2916d4385e3-13D41.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1353716389436981350",
+      "type": "Default",
+      "timestamp": "2025-03-24T13:05:38.076+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://www.vertumotors.com/new-car-deals/",
+      "author": {
+        "id": "1340718563727642684",
+        "name": "zerofrequency__67159",
+        "discriminator": "0000",
+        "nickname": "ZeroFrequency",
+        "color": "#F1C40F",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1340711624075509811",
+            "name": "Member",
+            "color": "#F1C40F",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "assets\\2b72a1829e7d15c1b8ca083f439bf0ac-57F07.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "New Cars for Sale in the UK | New Car Deals & Offers | Vertu",
+          "url": "https://www.vertumotors.com/new-car-deals/",
+          "timestamp": null,
+          "description": "Best new car deals in UK ranging from patrol to electric and plug-in hybrid. 24 Plates Available with flexible finance. Buy online or visit our dealership.",
+          "color": "#FFFFFF",
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1353716414724444170",
+      "type": "Default",
+      "timestamp": "2025-03-24T13:05:44.105+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "ah ignore that then",
+      "author": {
+        "id": "1340718563727642684",
+        "name": "zerofrequency__67159",
+        "discriminator": "0000",
+        "nickname": "ZeroFrequency",
+        "color": "#F1C40F",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1340711624075509811",
+            "name": "Member",
+            "color": "#F1C40F",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "assets\\2b72a1829e7d15c1b8ca083f439bf0ac-57F07.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1353716495410266264",
+      "type": "Default",
+      "timestamp": "2025-03-24T13:06:03.342+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "at least the e-vehicles",
+      "author": {
+        "id": "1340718563727642684",
+        "name": "zerofrequency__67159",
+        "discriminator": "0000",
+        "nickname": "ZeroFrequency",
+        "color": "#F1C40F",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1340711624075509811",
+            "name": "Member",
+            "color": "#F1C40F",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "assets\\2b72a1829e7d15c1b8ca083f439bf0ac-57F07.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1353716551466876968",
+      "type": "Default",
+      "timestamp": "2025-03-24T13:06:16.707+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "theres a few landrovers we could go and check out",
+      "author": {
+        "id": "1340718563727642684",
+        "name": "zerofrequency__67159",
+        "discriminator": "0000",
+        "nickname": "ZeroFrequency",
+        "color": "#F1C40F",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1340711624075509811",
+            "name": "Member",
+            "color": "#F1C40F",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "assets\\2b72a1829e7d15c1b8ca083f439bf0ac-57F07.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1353716919735422996",
+      "type": "Default",
+      "timestamp": "2025-03-24T13:07:44.509+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "its worth a shot anyway, we've not got long to find the right ones",
+      "author": {
+        "id": "1340714666405531689",
+        "name": "jaythedude690_37803",
+        "discriminator": "0000",
+        "nickname": "JayTheDude",
+        "color": "#F1C40F",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1340711624075509811",
+            "name": "Member",
+            "color": "#F1C40F",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "assets\\ba399c63b3d301db2decf2916d4385e3-13D41.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1353718168119414838",
+      "type": "Default",
+      "timestamp": "2025-03-24T13:12:42.147+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "The more cars we have the better. In the end Victor picks which ones we have to 'borrow'.",
+      "author": {
+        "id": "1349086669797589114",
+        "name": "roger_the_mechan1c_53327",
+        "discriminator": "0000",
+        "nickname": "Roger",
+        "color": "#F1C40F",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1340711624075509811",
+            "name": "Member",
+            "color": "#F1C40F",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "assets\\2-ADBB4.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "code": "thumbsup",
+            "isAnimated": false,
+            "imageUrl": "assets\\1f44d-27259.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "1340714666405531689",
+              "name": "jaythedude690_37803",
+              "discriminator": "0000",
+              "nickname": "JayTheDude",
+              "color": "#F1C40F",
+              "isBot": false,
+              "avatarUrl": "assets\\ba399c63b3d301db2decf2916d4385e3-13D41.png"
+            }
+          ]
+        }
+      ],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1353831602102468720",
+      "type": "Reply",
+      "timestamp": "2025-03-24T20:43:26.916+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "No luck tonight, couldn't find anything accessible from the pavement, will try again tomorrow",
+      "author": {
+        "id": "1340706353613901927",
+        "name": "ezericc_88003",
+        "discriminator": "0000",
+        "nickname": "EZericc",
+        "color": "#2ECC71",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1340711193714753639",
+            "name": "Admin+",
+            "color": "#2ECC71",
+            "position": 2
+          },
+          {
+            "id": "1340711624075509811",
+            "name": "Member",
+            "color": "#F1C40F",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "assets\\c9670df5cec50e2a7983a2670d40b791-36A36.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1353714245098930309",
+        "channelId": "1353072982464921722",
+        "guildId": "1340709945162727444"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1353831905828540476",
+      "type": "Default",
+      "timestamp": "2025-03-24T20:44:39.33+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I've been stuck at work late, but have been given tomorrow off so will head out to find some nice \"food\"",
+      "author": {
+        "id": "1340714666405531689",
+        "name": "jaythedude690_37803",
+        "discriminator": "0000",
+        "nickname": "JayTheDude",
+        "color": "#F1C40F",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1340711624075509811",
+            "name": "Member",
+            "color": "#F1C40F",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "assets\\ba399c63b3d301db2decf2916d4385e3-13D41.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1353831979170136115",
+      "type": "Default",
+      "timestamp": "2025-03-24T20:44:56.816+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@ZeroFrequency did you have any luck?",
+      "author": {
+        "id": "1340714666405531689",
+        "name": "jaythedude690_37803",
+        "discriminator": "0000",
+        "nickname": "JayTheDude",
+        "color": "#F1C40F",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1340711624075509811",
+            "name": "Member",
+            "color": "#F1C40F",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "assets\\ba399c63b3d301db2decf2916d4385e3-13D41.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1340718563727642684",
+          "name": "zerofrequency__67159",
+          "discriminator": "0000",
+          "nickname": "ZeroFrequency",
+          "color": "#F1C40F",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1340711624075509811",
+              "name": "Member",
+              "color": "#F1C40F",
+              "position": 1
+            }
+          ],
+          "avatarUrl": "assets\\2b72a1829e7d15c1b8ca083f439bf0ac-57F07.png"
+        }
+      ],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1353835699589087363",
+      "type": "Default",
+      "timestamp": "2025-03-24T20:59:43.833+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Yes sir , found some nice snacks. Send them to Roger already.",
+      "author": {
+        "id": "1340718563727642684",
+        "name": "zerofrequency__67159",
+        "discriminator": "0000",
+        "nickname": "ZeroFrequency",
+        "color": "#F1C40F",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1340711624075509811",
+            "name": "Member",
+            "color": "#F1C40F",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "assets\\2b72a1829e7d15c1b8ca083f439bf0ac-57F07.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1353835767830548553",
+      "type": "Default",
+      "timestamp": "2025-03-24T21:00:00.103+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Sphinx: JTVLQVIZBwQCIjQuYwozJzdUGSQ5BA==",
+      "author": {
+        "id": "1347508412195409991",
+        "name": "CipherBot",
+        "discriminator": "8830",
+        "nickname": "CipherBot",
+        "color": null,
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1353076902910365800",
+            "name": "CipherBot",
+            "color": null,
+            "position": 1
+          }
+        ],
+        "avatarUrl": "assets\\0-EB806.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1354153706093940929",
+      "type": "Default",
+      "timestamp": "2025-03-25T18:03:22.492+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I found one, I was scoping it out for a while, it is electric but could still be possible, I'm going to do some research about how to get in and will let you know",
+      "author": {
+        "id": "1340706353613901927",
+        "name": "ezericc_88003",
+        "discriminator": "0000",
+        "nickname": "EZericc",
+        "color": "#2ECC71",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1340711193714753639",
+            "name": "Admin+",
+            "color": "#2ECC71",
+            "position": 2
+          },
+          {
+            "id": "1340711624075509811",
+            "name": "Member",
+            "color": "#F1C40F",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "assets\\c9670df5cec50e2a7983a2670d40b791-36A36.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1354153726952210575",
+      "type": "Default",
+      "timestamp": "2025-03-25T18:03:27.465+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Mirror Man: ATFKQAlaNQ==",
+      "author": {
+        "id": "1347508412195409991",
+        "name": "CipherBot",
+        "discriminator": "8830",
+        "nickname": "CipherBot",
+        "color": null,
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1353076902910365800",
+            "name": "CipherBot",
+            "color": null,
+            "position": 1
+          }
+        ],
+        "avatarUrl": "assets\\0-EB806.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1354192982882127882",
+      "type": "Default",
+      "timestamp": "2025-03-25T20:39:26.808+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I found 2 more today guys - same as Eric tho 1 of them is electric.",
+      "author": {
+        "id": "1340714666405531689",
+        "name": "jaythedude690_37803",
+        "discriminator": "0000",
+        "nickname": "JayTheDude",
+        "color": "#F1C40F",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1340711624075509811",
+            "name": "Member",
+            "color": "#F1C40F",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "assets\\ba399c63b3d301db2decf2916d4385e3-13D41.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1354192984043683981",
+      "type": "Default",
+      "timestamp": "2025-03-25T20:39:27.085+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Will email them accross",
+      "author": {
+        "id": "1340714666405531689",
+        "name": "jaythedude690_37803",
+        "discriminator": "0000",
+        "nickname": "JayTheDude",
+        "color": "#F1C40F",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1340711624075509811",
+            "name": "Member",
+            "color": "#F1C40F",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "assets\\ba399c63b3d301db2decf2916d4385e3-13D41.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1354192984958308536",
+      "type": "Default",
+      "timestamp": "2025-03-25T20:39:27.303+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "pass is",
+      "author": {
+        "id": "1340714666405531689",
+        "name": "jaythedude690_37803",
+        "discriminator": "0000",
+        "nickname": "JayTheDude",
+        "color": "#F1C40F",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1340711624075509811",
+            "name": "Member",
+            "color": "#F1C40F",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "assets\\ba399c63b3d301db2decf2916d4385e3-13D41.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1354193045696024757",
+      "type": "Default",
+      "timestamp": "2025-03-25T20:39:41.784+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Tumbler: Ox17dyd3FQ==",
+      "author": {
+        "id": "1347508412195409991",
+        "name": "CipherBot",
+        "discriminator": "8830",
+        "nickname": "CipherBot",
+        "color": null,
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1353076902910365800",
+            "name": "CipherBot",
+            "color": null,
+            "position": 1
+          }
+        ],
+        "avatarUrl": "assets\\0-EB806.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1354444200648904740",
+      "type": "Default",
+      "timestamp": "2025-03-26T13:17:41.791+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Is today the day? Were we able to get enough items? @Roger",
+      "author": {
+        "id": "1340706353613901927",
+        "name": "ezericc_88003",
+        "discriminator": "0000",
+        "nickname": "EZericc",
+        "color": "#2ECC71",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1340711193714753639",
+            "name": "Admin+",
+            "color": "#2ECC71",
+            "position": 2
+          },
+          {
+            "id": "1340711624075509811",
+            "name": "Member",
+            "color": "#F1C40F",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "assets\\c9670df5cec50e2a7983a2670d40b791-36A36.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1349086669797589114",
+          "name": "roger_the_mechan1c_53327",
+          "discriminator": "0000",
+          "nickname": "Roger",
+          "color": "#F1C40F",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1340711624075509811",
+              "name": "Member",
+              "color": "#F1C40F",
+              "position": 1
+            }
+          ],
+          "avatarUrl": "assets\\2-ADBB4.png"
+        }
+      ],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1354445731481522368",
+      "type": "Default",
+      "timestamp": "2025-03-26T13:23:46.77+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Oh shit yeah, wow thats come fast",
+      "author": {
+        "id": "1340714666405531689",
+        "name": "jaythedude690_37803",
+        "discriminator": "0000",
+        "nickname": "JayTheDude",
+        "color": "#F1C40F",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1340711624075509811",
+            "name": "Member",
+            "color": "#F1C40F",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "assets\\ba399c63b3d301db2decf2916d4385e3-13D41.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1354445791590354986",
+      "type": "Default",
+      "timestamp": "2025-03-26T13:24:01.101+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\uD83E\uDD1E we found enough stuff",
+      "author": {
+        "id": "1340714666405531689",
+        "name": "jaythedude690_37803",
+        "discriminator": "0000",
+        "nickname": "JayTheDude",
+        "color": "#F1C40F",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1340711624075509811",
+            "name": "Member",
+            "color": "#F1C40F",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "assets\\ba399c63b3d301db2decf2916d4385e3-13D41.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": [
+        {
+          "id": "",
+          "name": "\uD83E\uDD1E",
+          "code": "fingers_crossed",
+          "isAnimated": false,
+          "imageUrl": "assets\\1f91e-2A114.svg"
+        }
+      ]
+    },
+    {
+      "id": "1354447190503719063",
+      "type": "Reply",
+      "timestamp": "2025-03-26T13:29:34.628+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Today is the day. So far we have 7 items on the menu.",
+      "author": {
+        "id": "1349086669797589114",
+        "name": "roger_the_mechan1c_53327",
+        "discriminator": "0000",
+        "nickname": "Roger",
+        "color": "#F1C40F",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1340711624075509811",
+            "name": "Member",
+            "color": "#F1C40F",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "assets\\2-ADBB4.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1340706353613901927",
+          "name": "ezericc_88003",
+          "discriminator": "0000",
+          "nickname": "EZericc",
+          "color": "#2ECC71",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1340711193714753639",
+              "name": "Admin+",
+              "color": "#2ECC71",
+              "position": 2
+            },
+            {
+              "id": "1340711624075509811",
+              "name": "Member",
+              "color": "#F1C40F",
+              "position": 1
+            }
+          ],
+          "avatarUrl": "assets\\c9670df5cec50e2a7983a2670d40b791-36A36.png"
+        }
+      ],
+      "reference": {
+        "messageId": "1354444200648904740",
+        "channelId": "1353072982464921722",
+        "guildId": "1340709945162727444"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1354447241754054836",
+      "type": "Default",
+      "timestamp": "2025-03-26T13:29:46.847+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "lets hope they are expensive enough",
+      "author": {
+        "id": "1340714666405531689",
+        "name": "jaythedude690_37803",
+        "discriminator": "0000",
+        "nickname": "JayTheDude",
+        "color": "#F1C40F",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1340711624075509811",
+            "name": "Member",
+            "color": "#F1C40F",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "assets\\ba399c63b3d301db2decf2916d4385e3-13D41.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1354447283223269417",
+      "type": "Default",
+      "timestamp": "2025-03-26T13:29:56.734+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "jimmy must be terrified by now",
+      "author": {
+        "id": "1340714666405531689",
+        "name": "jaythedude690_37803",
+        "discriminator": "0000",
+        "nickname": "JayTheDude",
+        "color": "#F1C40F",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1340711624075509811",
+            "name": "Member",
+            "color": "#F1C40F",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "assets\\ba399c63b3d301db2decf2916d4385e3-13D41.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1354451035996819489",
+      "type": "Default",
+      "timestamp": "2025-03-26T13:44:51.465+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Sphinx: MyZZXANfJR4ZCyM=",
+      "author": {
+        "id": "1347508412195409991",
+        "name": "CipherBot",
+        "discriminator": "8830",
+        "nickname": "CipherBot",
+        "color": null,
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1353076902910365800",
+            "name": "CipherBot",
+            "color": null,
+            "position": 1
+          }
+        ],
+        "avatarUrl": "assets\\0-EB806.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1354479876048027813",
+      "type": "Default",
+      "timestamp": "2025-03-26T15:39:27.469+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Memphis: JTVLQUhQI0xXTiIqXgYzETVSBA==",
+      "author": {
+        "id": "1347508412195409991",
+        "name": "CipherBot",
+        "discriminator": "8830",
+        "nickname": "CipherBot",
+        "color": null,
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1353076902910365800",
+            "name": "CipherBot",
+            "color": null,
+            "position": 1
+          }
+        ],
+        "avatarUrl": "assets\\0-EB806.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1354484928901025894",
+      "type": "Default",
+      "timestamp": "2025-03-26T15:59:32.163+00:00",
+      "timestampEdited": "2025-03-26T16:01:04.822+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I've send the menu to THE guy . Now , all I can do is wait for the reply.",
+      "author": {
+        "id": "1349086669797589114",
+        "name": "roger_the_mechan1c_53327",
+        "discriminator": "0000",
+        "nickname": "Roger",
+        "color": "#F1C40F",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1340711624075509811",
+            "name": "Member",
+            "color": "#F1C40F",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "assets\\2-ADBB4.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1354556336897134693",
+      "type": "Default",
+      "timestamp": "2025-03-26T20:43:17.156+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Alright, lets hope he gives us enough time for what comes next...",
+      "author": {
+        "id": "1340706353613901927",
+        "name": "ezericc_88003",
+        "discriminator": "0000",
+        "nickname": "EZericc",
+        "color": "#2ECC71",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1340711193714753639",
+            "name": "Admin+",
+            "color": "#2ECC71",
+            "position": 2
+          },
+          {
+            "id": "1340711624075509811",
+            "name": "Member",
+            "color": "#F1C40F",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "assets\\c9670df5cec50e2a7983a2670d40b791-36A36.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1354556516992159984",
+      "type": "Default",
+      "timestamp": "2025-03-26T20:44:00.094+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I'm nervous now guys, not long till we have a pretty serious job to do",
+      "author": {
+        "id": "1340714666405531689",
+        "name": "jaythedude690_37803",
+        "discriminator": "0000",
+        "nickname": "JayTheDude",
+        "color": "#F1C40F",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1340711624075509811",
+            "name": "Member",
+            "color": "#F1C40F",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "assets\\ba399c63b3d301db2decf2916d4385e3-13D41.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1354556564505231603",
+      "type": "Default",
+      "timestamp": "2025-03-26T20:44:11.422+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "lets hope he chooses some straightforward meals",
+      "author": {
+        "id": "1340714666405531689",
+        "name": "jaythedude690_37803",
+        "discriminator": "0000",
+        "nickname": "JayTheDude",
+        "color": "#F1C40F",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1340711624075509811",
+            "name": "Member",
+            "color": "#F1C40F",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "assets\\ba399c63b3d301db2decf2916d4385e3-13D41.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1354560094976872763",
+      "type": "Default",
+      "timestamp": "2025-03-26T20:58:13.152+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Yeah, ones that'll be easier to prepare the right ingredient and cook",
+      "author": {
+        "id": "1340718563727642684",
+        "name": "zerofrequency__67159",
+        "discriminator": "0000",
+        "nickname": "ZeroFrequency",
+        "color": "#F1C40F",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1340711624075509811",
+            "name": "Member",
+            "color": "#F1C40F",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "assets\\2b72a1829e7d15c1b8ca083f439bf0ac-57F07.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1354560308005310739",
+      "type": "Default",
+      "timestamp": "2025-03-26T20:59:03.942+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Some of the items on the menu will be a bit difficult to cook up",
+      "author": {
+        "id": "1340718563727642684",
+        "name": "zerofrequency__67159",
+        "discriminator": "0000",
+        "nickname": "ZeroFrequency",
+        "color": "#F1C40F",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1340711624075509811",
+            "name": "Member",
+            "color": "#F1C40F",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "assets\\2b72a1829e7d15c1b8ca083f439bf0ac-57F07.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1354577024169148446",
+      "type": "Default",
+      "timestamp": "2025-03-26T22:05:29.386+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Yo Roger, did you send those guys the menu? They orderin or is it not to their tastes",
+      "author": {
+        "id": "1340718563727642684",
+        "name": "zerofrequency__67159",
+        "discriminator": "0000",
+        "nickname": "ZeroFrequency",
+        "color": "#F1C40F",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1340711624075509811",
+            "name": "Member",
+            "color": "#F1C40F",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "assets\\2b72a1829e7d15c1b8ca083f439bf0ac-57F07.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1354577098718842900",
+      "type": "Default",
+      "timestamp": "2025-03-26T22:05:47.16+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "yo , I just woke up  from the nap",
+      "author": {
+        "id": "1349086669797589114",
+        "name": "roger_the_mechan1c_53327",
+        "discriminator": "0000",
+        "nickname": "Roger",
+        "color": "#F1C40F",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1340711624075509811",
+            "name": "Member",
+            "color": "#F1C40F",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "assets\\2-ADBB4.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1354577129924460787",
+      "type": "Default",
+      "timestamp": "2025-03-26T22:05:54.6+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "hey guys",
+      "author": {
+        "id": "1340714666405531689",
+        "name": "jaythedude690_37803",
+        "discriminator": "0000",
+        "nickname": "JayTheDude",
+        "color": "#F1C40F",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1340711624075509811",
+            "name": "Member",
+            "color": "#F1C40F",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "assets\\ba399c63b3d301db2decf2916d4385e3-13D41.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1354577215915823315",
+      "type": "Default",
+      "timestamp": "2025-03-26T22:06:15.102+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "they liked some dishes , picked 3 for the cook off",
+      "author": {
+        "id": "1349086669797589114",
+        "name": "roger_the_mechan1c_53327",
+        "discriminator": "0000",
+        "nickname": "Roger",
+        "color": "#F1C40F",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1340711624075509811",
+            "name": "Member",
+            "color": "#F1C40F",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "assets\\2-ADBB4.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1354577295125516350",
+      "type": "Default",
+      "timestamp": "2025-03-26T22:06:33.987+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "which did the like??",
+      "author": {
+        "id": "1340714666405531689",
+        "name": "jaythedude690_37803",
+        "discriminator": "0000",
+        "nickname": "JayTheDude",
+        "color": "#F1C40F",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1340711624075509811",
+            "name": "Member",
+            "color": "#F1C40F",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "assets\\ba399c63b3d301db2decf2916d4385e3-13D41.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1354578792563081337",
+      "type": "Default",
+      "timestamp": "2025-03-26T22:12:31.004+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Pasta , stuffed avocado and a burger",
+      "author": {
+        "id": "1349086669797589114",
+        "name": "roger_the_mechan1c_53327",
+        "discriminator": "0000",
+        "nickname": "Roger",
+        "color": "#F1C40F",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1340711624075509811",
+            "name": "Member",
+            "color": "#F1C40F",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "assets\\2-ADBB4.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1354579045601382401",
+      "type": "Default",
+      "timestamp": "2025-03-26T22:13:31.333+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "a man of culture",
+      "author": {
+        "id": "1349086669797589114",
+        "name": "roger_the_mechan1c_53327",
+        "discriminator": "0000",
+        "nickname": "Roger",
+        "color": "#F1C40F",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1340711624075509811",
+            "name": "Member",
+            "color": "#F1C40F",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "assets\\2-ADBB4.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1354579099389137077",
+      "type": "Default",
+      "timestamp": "2025-03-26T22:13:44.157+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "tasteful for sur",
+      "author": {
+        "id": "1340714666405531689",
+        "name": "jaythedude690_37803",
+        "discriminator": "0000",
+        "nickname": "JayTheDude",
+        "color": "#F1C40F",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1340711624075509811",
+            "name": "Member",
+            "color": "#F1C40F",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "assets\\ba399c63b3d301db2decf2916d4385e3-13D41.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1354579406097481860",
+      "type": "Default",
+      "timestamp": "2025-03-26T22:14:57.282+00:00",
+      "timestampEdited": "2025-03-26T22:14:59.299+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "let's hop on VC quickly please , if you can",
+      "author": {
+        "id": "1349086669797589114",
+        "name": "roger_the_mechan1c_53327",
+        "discriminator": "0000",
+        "nickname": "Roger",
+        "color": "#F1C40F",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1340711624075509811",
+            "name": "Member",
+            "color": "#F1C40F",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "assets\\2-ADBB4.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1354579414905520219",
+      "type": "Default",
+      "timestamp": "2025-03-26T22:14:59.382+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "should we hop on vc?",
+      "author": {
+        "id": "1340718563727642684",
+        "name": "zerofrequency__67159",
+        "discriminator": "0000",
+        "nickname": "ZeroFrequency",
+        "color": "#F1C40F",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1340711624075509811",
+            "name": "Member",
+            "color": "#F1C40F",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "assets\\2b72a1829e7d15c1b8ca083f439bf0ac-57F07.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1354579903655317534",
+      "type": "Default",
+      "timestamp": "2025-03-26T22:16:55.909+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I can't join right now guys sorry, but I already know what the menu items are as we were having problems with it earlier, I have to go now but we should take some time tomorrow to discuss our plans for how we proceed...",
+      "author": {
+        "id": "1340706353613901927",
+        "name": "ezericc_88003",
+        "discriminator": "0000",
+        "nickname": "EZericc",
+        "color": "#2ECC71",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1340711193714753639",
+            "name": "Admin+",
+            "color": "#2ECC71",
+            "position": 2
+          },
+          {
+            "id": "1340711624075509811",
+            "name": "Member",
+            "color": "#F1C40F",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "assets\\c9670df5cec50e2a7983a2670d40b791-36A36.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "code": "thumbsup",
+            "isAnimated": false,
+            "imageUrl": "assets\\1f44d-27259.svg"
+          },
+          "count": 3,
+          "users": [
+            {
+              "id": "1340714666405531689",
+              "name": "jaythedude690_37803",
+              "discriminator": "0000",
+              "nickname": "JayTheDude",
+              "color": "#F1C40F",
+              "isBot": false,
+              "avatarUrl": "assets\\ba399c63b3d301db2decf2916d4385e3-13D41.png"
+            },
+            {
+              "id": "1340718563727642684",
+              "name": "zerofrequency__67159",
+              "discriminator": "0000",
+              "nickname": "ZeroFrequency",
+              "color": "#F1C40F",
+              "isBot": false,
+              "avatarUrl": "assets\\2b72a1829e7d15c1b8ca083f439bf0ac-57F07.png"
+            },
+            {
+              "id": "1349086669797589114",
+              "name": "roger_the_mechan1c_53327",
+              "discriminator": "0000",
+              "nickname": "Roger",
+              "color": "#F1C40F",
+              "isBot": false,
+              "avatarUrl": "assets\\2-ADBB4.png"
+            }
+          ]
+        }
+      ],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1354580092818423949",
+      "type": "Default",
+      "timestamp": "2025-03-26T22:17:41.009+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "no worries",
+      "author": {
+        "id": "1349086669797589114",
+        "name": "roger_the_mechan1c_53327",
+        "discriminator": "0000",
+        "nickname": "Roger",
+        "color": "#F1C40F",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1340711624075509811",
+            "name": "Member",
+            "color": "#F1C40F",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "assets\\2-ADBB4.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1354580534533029908",
+      "type": "Default",
+      "timestamp": "2025-03-26T22:19:26.322+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "sorry for endin the call abruptly. baby woke up so gotta tend to her",
+      "author": {
+        "id": "1340718563727642684",
+        "name": "zerofrequency__67159",
+        "discriminator": "0000",
+        "nickname": "ZeroFrequency",
+        "color": "#F1C40F",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1340711624075509811",
+            "name": "Member",
+            "color": "#F1C40F",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "assets\\2b72a1829e7d15c1b8ca083f439bf0ac-57F07.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1354580597397262547",
+      "type": "Default",
+      "timestamp": "2025-03-26T22:19:41.31+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "i'll catch up with yous tmr",
+      "author": {
+        "id": "1340718563727642684",
+        "name": "zerofrequency__67159",
+        "discriminator": "0000",
+        "nickname": "ZeroFrequency",
+        "color": "#F1C40F",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1340711624075509811",
+            "name": "Member",
+            "color": "#F1C40F",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "assets\\2b72a1829e7d15c1b8ca083f439bf0ac-57F07.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1354580636941156605",
+      "type": "Default",
+      "timestamp": "2025-03-26T22:19:50.738+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "yeah I gotta boost too guys sorry, got an early start tomorrow",
+      "author": {
+        "id": "1340714666405531689",
+        "name": "jaythedude690_37803",
+        "discriminator": "0000",
+        "nickname": "JayTheDude",
+        "color": "#F1C40F",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1340711624075509811",
+            "name": "Member",
+            "color": "#F1C40F",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "assets\\ba399c63b3d301db2decf2916d4385e3-13D41.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1354580909805932664",
+      "type": "Default",
+      "timestamp": "2025-03-26T22:20:55.794+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I will research how to get that food, hopefully wont be too hard",
+      "author": {
+        "id": "1340714666405531689",
+        "name": "jaythedude690_37803",
+        "discriminator": "0000",
+        "nickname": "JayTheDude",
+        "color": "#F1C40F",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1340711624075509811",
+            "name": "Member",
+            "color": "#F1C40F",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "assets\\ba399c63b3d301db2decf2916d4385e3-13D41.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1354581918221340673",
+      "type": "Default",
+      "timestamp": "2025-03-26T22:24:56.219+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "great , we meet tomorrow to talk about the ingredients we need for a cook-off",
+      "author": {
+        "id": "1349086669797589114",
+        "name": "roger_the_mechan1c_53327",
+        "discriminator": "0000",
+        "nickname": "Roger",
+        "color": "#F1C40F",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1340711624075509811",
+            "name": "Member",
+            "color": "#F1C40F",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "assets\\2-ADBB4.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "code": "thumbsup",
+            "isAnimated": false,
+            "imageUrl": "assets\\1f44d-27259.svg"
+          },
+          "count": 2,
+          "users": [
+            {
+              "id": "1340706353613901927",
+              "name": "ezericc_88003",
+              "discriminator": "0000",
+              "nickname": "EZericc",
+              "color": "#2ECC71",
+              "isBot": false,
+              "avatarUrl": "assets\\c9670df5cec50e2a7983a2670d40b791-36A36.png"
+            },
+            {
+              "id": "1340714666405531689",
+              "name": "jaythedude690_37803",
+              "discriminator": "0000",
+              "nickname": "JayTheDude",
+              "color": "#F1C40F",
+              "isBot": false,
+              "avatarUrl": "assets\\ba399c63b3d301db2decf2916d4385e3-13D41.png"
+            }
+          ]
+        }
+      ],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1354887449180111118",
+      "type": "Default",
+      "timestamp": "2025-03-27T18:39:00.476+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Yo boys, so tomorrow is the day we grab the ingredients",
+      "author": {
+        "id": "1349086669797589114",
+        "name": "roger_the_mechan1c_53327",
+        "discriminator": "0000",
+        "nickname": "Roger",
+        "color": "#F1C40F",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1340711624075509811",
+            "name": "Member",
+            "color": "#F1C40F",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "assets\\2-ADBB4.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1354887970787819743",
+      "type": "Default",
+      "timestamp": "2025-03-27T18:41:04.837+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I got the gloves so we don't make or leave any mess in when cooking",
+      "author": {
+        "id": "1340718563727642684",
+        "name": "zerofrequency__67159",
+        "discriminator": "0000",
+        "nickname": "ZeroFrequency",
+        "color": "#F1C40F",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1340711624075509811",
+            "name": "Member",
+            "color": "#F1C40F",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "assets\\2b72a1829e7d15c1b8ca083f439bf0ac-57F07.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1354888294449811547",
+      "type": "Default",
+      "timestamp": "2025-03-27T18:42:22.004+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Is the meet up at OT to go shopping for ingredients later?",
+      "author": {
+        "id": "1340718563727642684",
+        "name": "zerofrequency__67159",
+        "discriminator": "0000",
+        "nickname": "ZeroFrequency",
+        "color": "#F1C40F",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1340711624075509811",
+            "name": "Member",
+            "color": "#F1C40F",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "assets\\2b72a1829e7d15c1b8ca083f439bf0ac-57F07.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1354889731015573564",
+      "type": "Default",
+      "timestamp": "2025-03-27T18:48:04.508+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "yup , that's the plan",
+      "author": {
+        "id": "1349086669797589114",
+        "name": "roger_the_mechan1c_53327",
+        "discriminator": "0000",
+        "nickname": "Roger",
+        "color": "#F1C40F",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1340711624075509811",
+            "name": "Member",
+            "color": "#F1C40F",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "assets\\2-ADBB4.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1354889757590683828",
+      "type": "Default",
+      "timestamp": "2025-03-27T18:48:10.844+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "THE MASTERPLAN",
+      "author": {
+        "id": "1349086669797589114",
+        "name": "roger_the_mechan1c_53327",
+        "discriminator": "0000",
+        "nickname": "Roger",
+        "color": "#F1C40F",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1340711624075509811",
+            "name": "Member",
+            "color": "#F1C40F",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "assets\\2-ADBB4.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1354891356056719630",
+      "type": "Default",
+      "timestamp": "2025-03-27T18:54:31.948+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I was looking at avacado and even though its newer it seems to be similar in design to cheaper models, you've probably already worked with those cars at work so I don't think it could be an issue.",
+      "author": {
+        "id": "1340706353613901927",
+        "name": "ezericc_88003",
+        "discriminator": "0000",
+        "nickname": "EZericc",
+        "color": "#2ECC71",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1340711193714753639",
+            "name": "Admin+",
+            "color": "#2ECC71",
+            "position": 2
+          },
+          {
+            "id": "1340711624075509811",
+            "name": "Member",
+            "color": "#F1C40F",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "assets\\c9670df5cec50e2a7983a2670d40b791-36A36.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1354892112604430617",
+      "type": "Default",
+      "timestamp": "2025-03-27T18:57:32.323+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I've been a mechanic for more than 10 years already , I've seen it all.",
+      "author": {
+        "id": "1349086669797589114",
+        "name": "roger_the_mechan1c_53327",
+        "discriminator": "0000",
+        "nickname": "Roger",
+        "color": "#F1C40F",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1340711624075509811",
+            "name": "Member",
+            "color": "#F1C40F",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "assets\\2-ADBB4.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1354892145684775153",
+      "type": "Default",
+      "timestamp": "2025-03-27T18:57:40.21+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Just need to refresh my memory slightly",
+      "author": {
+        "id": "1349086669797589114",
+        "name": "roger_the_mechan1c_53327",
+        "discriminator": "0000",
+        "nickname": "Roger",
+        "color": "#F1C40F",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1340711624075509811",
+            "name": "Member",
+            "color": "#F1C40F",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "assets\\2-ADBB4.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1354893158458064926",
+      "type": "Default",
+      "timestamp": "2025-03-27T19:01:41.674+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "hop on the voice so we can talk about the details ?",
+      "author": {
+        "id": "1349086669797589114",
+        "name": "roger_the_mechan1c_53327",
+        "discriminator": "0000",
+        "nickname": "Roger",
+        "color": "#F1C40F",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1340711624075509811",
+            "name": "Member",
+            "color": "#F1C40F",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "assets\\2-ADBB4.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1354893180985807038",
+      "type": "Default",
+      "timestamp": "2025-03-27T19:01:47.045+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Yeah sure",
+      "author": {
+        "id": "1340718563727642684",
+        "name": "zerofrequency__67159",
+        "discriminator": "0000",
+        "nickname": "ZeroFrequency",
+        "color": "#F1C40F",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1340711624075509811",
+            "name": "Member",
+            "color": "#F1C40F",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "assets\\2b72a1829e7d15c1b8ca083f439bf0ac-57F07.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1354893206096973965",
+      "type": "Default",
+      "timestamp": "2025-03-27T19:01:53.032+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Yeah agreed",
+      "author": {
+        "id": "1340706353613901927",
+        "name": "ezericc_88003",
+        "discriminator": "0000",
+        "nickname": "EZericc",
+        "color": "#2ECC71",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1340711193714753639",
+            "name": "Admin+",
+            "color": "#2ECC71",
+            "position": 2
+          },
+          {
+            "id": "1340711624075509811",
+            "name": "Member",
+            "color": "#F1C40F",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "assets\\c9670df5cec50e2a7983a2670d40b791-36A36.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1354895972051980468",
+      "type": "Default",
+      "timestamp": "2025-03-27T19:12:52.487+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "From what you mentioned in the call I think we're good to go with avacado now, we should be able to get in without any worries",
+      "author": {
+        "id": "1340706353613901927",
+        "name": "ezericc_88003",
+        "discriminator": "0000",
+        "nickname": "EZericc",
+        "color": "#2ECC71",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1340711193714753639",
+            "name": "Admin+",
+            "color": "#2ECC71",
+            "position": 2
+          },
+          {
+            "id": "1340711624075509811",
+            "name": "Member",
+            "color": "#F1C40F",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "assets\\c9670df5cec50e2a7983a2670d40b791-36A36.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1354896450840035400",
+      "type": "Default",
+      "timestamp": "2025-03-27T19:14:46.639+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Fingers crossed everything goes smoothly tomorrow",
+      "author": {
+        "id": "1349086669797589114",
+        "name": "roger_the_mechan1c_53327",
+        "discriminator": "0000",
+        "nickname": "Roger",
+        "color": "#F1C40F",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1340711624075509811",
+            "name": "Member",
+            "color": "#F1C40F",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "assets\\2-ADBB4.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83E\uDD1E",
+            "code": "fingers_crossed",
+            "isAnimated": false,
+            "imageUrl": "assets\\1f91e-2A114.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "1340718563727642684",
+              "name": "zerofrequency__67159",
+              "discriminator": "0000",
+              "nickname": "ZeroFrequency",
+              "color": "#F1C40F",
+              "isBot": false,
+              "avatarUrl": "assets\\2b72a1829e7d15c1b8ca083f439bf0ac-57F07.png"
+            }
+          ]
+        }
+      ],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1355233235126325310",
+      "type": "Default",
+      "timestamp": "2025-03-28T17:33:02.27+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hey guys , I did some planning for today , here is the link",
+      "author": {
+        "id": "1349086669797589114",
+        "name": "roger_the_mechan1c_53327",
+        "discriminator": "0000",
+        "nickname": "Roger",
+        "color": "#F1C40F",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1340711624075509811",
+            "name": "Member",
+            "color": "#F1C40F",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "assets\\2-ADBB4.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1355233247616831690",
+      "type": "Default",
+      "timestamp": "2025-03-28T17:33:05.248+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Memphis: HSBMQhsDf0MADyEpGQMmE3ZUBQRiF1xOGQcJAw03BxE7Jnc7QDAFPWA=",
+      "author": {
+        "id": "1347508412195409991",
+        "name": "CipherBot",
+        "discriminator": "8830",
+        "nickname": "CipherBot",
+        "color": null,
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1353076902910365800",
+            "name": "CipherBot",
+            "color": null,
+            "position": 1
+          }
+        ],
+        "avatarUrl": "assets\\0-EB806.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1355233273466327073",
+      "type": "Default",
+      "timestamp": "2025-03-28T17:33:11.411+00:00",
+      "timestampEdited": "2025-03-28T17:33:39.923+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "is everyone ready ?",
+      "author": {
+        "id": "1349086669797589114",
+        "name": "roger_the_mechan1c_53327",
+        "discriminator": "0000",
+        "nickname": "Roger",
+        "color": "#F1C40F",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1340711624075509811",
+            "name": "Member",
+            "color": "#F1C40F",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "assets\\2-ADBB4.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1355233356954206390",
+      "type": "Default",
+      "timestamp": "2025-03-28T17:33:31.316+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I am ready... nervous",
+      "author": {
+        "id": "1340714666405531689",
+        "name": "jaythedude690_37803",
+        "discriminator": "0000",
+        "nickname": "JayTheDude",
+        "color": "#F1C40F",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1340711624075509811",
+            "name": "Member",
+            "color": "#F1C40F",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "assets\\ba399c63b3d301db2decf2916d4385e3-13D41.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1355236345743675543",
+      "type": "Default",
+      "timestamp": "2025-03-28T17:45:23.899+00:00",
+      "timestampEdited": "2025-03-28T18:55:31.876+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "It will be fine, Ezericc will be our ‘eyes’ and 'ears'.",
+      "author": {
+        "id": "1349086669797589114",
+        "name": "roger_the_mechan1c_53327",
+        "discriminator": "0000",
+        "nickname": "Roger",
+        "color": "#F1C40F",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1340711624075509811",
+            "name": "Member",
+            "color": "#F1C40F",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "assets\\2-ADBB4.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1355237573005414484",
+      "type": "Default",
+      "timestamp": "2025-03-28T17:50:16.501+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Good luck, will let you know if anything is picked up",
+      "author": {
+        "id": "1340706353613901927",
+        "name": "ezericc_88003",
+        "discriminator": "0000",
+        "nickname": "EZericc",
+        "color": "#2ECC71",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1340711193714753639",
+            "name": "Admin+",
+            "color": "#2ECC71",
+            "position": 2
+          },
+          {
+            "id": "1340711624075509811",
+            "name": "Member",
+            "color": "#F1C40F",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "assets\\c9670df5cec50e2a7983a2670d40b791-36A36.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDE4F",
+            "code": "pray",
+            "isAnimated": false,
+            "imageUrl": "assets\\1f64f-22B8D.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "1349086669797589114",
+              "name": "roger_the_mechan1c_53327",
+              "discriminator": "0000",
+              "nickname": "Roger",
+              "color": "#F1C40F",
+              "isBot": false,
+              "avatarUrl": "assets\\2-ADBB4.png"
+            }
+          ]
+        }
+      ],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1355237985964261509",
+      "type": "Default",
+      "timestamp": "2025-03-28T17:51:54.958+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "thanks eric",
+      "author": {
+        "id": "1340714666405531689",
+        "name": "jaythedude690_37803",
+        "discriminator": "0000",
+        "nickname": "JayTheDude",
+        "color": "#F1C40F",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1340711624075509811",
+            "name": "Member",
+            "color": "#F1C40F",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "assets\\ba399c63b3d301db2decf2916d4385e3-13D41.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1355239613957931200",
+      "type": "Default",
+      "timestamp": "2025-03-28T17:58:23.102+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "see you at 7 guys , I need to gather my tools",
+      "author": {
+        "id": "1349086669797589114",
+        "name": "roger_the_mechan1c_53327",
+        "discriminator": "0000",
+        "nickname": "Roger",
+        "color": "#F1C40F",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1340711624075509811",
+            "name": "Member",
+            "color": "#F1C40F",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "assets\\2-ADBB4.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1355239635101548765",
+      "type": "Default",
+      "timestamp": "2025-03-28T17:58:28.143+00:00",
+      "timestampEdited": "2025-03-28T17:58:33.263+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "stay safe , see you soon",
+      "author": {
+        "id": "1349086669797589114",
+        "name": "roger_the_mechan1c_53327",
+        "discriminator": "0000",
+        "nickname": "Roger",
+        "color": "#F1C40F",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1340711624075509811",
+            "name": "Member",
+            "color": "#F1C40F",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "assets\\2-ADBB4.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "code": "thumbsup",
+            "isAnimated": false,
+            "imageUrl": "assets\\1f44d-27259.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "1340714666405531689",
+              "name": "jaythedude690_37803",
+              "discriminator": "0000",
+              "nickname": "JayTheDude",
+              "color": "#F1C40F",
+              "isBot": false,
+              "avatarUrl": "assets\\ba399c63b3d301db2decf2916d4385e3-13D41.png"
+            }
+          ]
+        }
+      ],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1355263357774725141",
+      "type": "Default",
+      "timestamp": "2025-03-28T19:32:44.069+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "All is going smoothly \uD83D\uDE4C",
+      "author": {
+        "id": "1340706353613901927",
+        "name": "ezericc_88003",
+        "discriminator": "0000",
+        "nickname": "EZericc",
+        "color": "#2ECC71",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1340711193714753639",
+            "name": "Admin+",
+            "color": "#2ECC71",
+            "position": 2
+          },
+          {
+            "id": "1340711624075509811",
+            "name": "Member",
+            "color": "#F1C40F",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "assets\\c9670df5cec50e2a7983a2670d40b791-36A36.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": [
+        {
+          "id": "",
+          "name": "\uD83D\uDE4C",
+          "code": "raised_hands",
+          "isAnimated": false,
+          "imageUrl": "assets\\1f64c-7C820.svg"
+        }
+      ]
+    }
+  ],
+  "messageCount": 125
+}

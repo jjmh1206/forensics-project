@@ -1,0 +1,385 @@
+{
+  "guild": {
+    "id": "0",
+    "name": "Direct Messages",
+    "iconUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+  },
+  "channel": {
+    "id": "1349489351653986305",
+    "type": "DirectTextChat",
+    "categoryId": null,
+    "category": null,
+    "name": "ZeroFrequency",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2025-03-31T18:09:26.2447754+01:00",
+  "messages": [
+    {
+      "id": "1351676974187282615",
+      "type": "Call",
+      "timestamp": "2025-03-18T22:01:43.59+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": "2025-03-18T22:19:20.846+00:00",
+      "isPinned": false,
+      "content": "Started a call that lasted 18 minutes.",
+      "author": {
+        "id": "1340718563727642684",
+        "name": "zerofrequency__67159",
+        "discriminator": "0000",
+        "nickname": "ZeroFrequency",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1340718563727642684/2b72a1829e7d15c1b8ca083f439bf0ac.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1353471678943985748",
+      "type": "Default",
+      "timestamp": "2025-03-23T20:53:14.548+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://www.youtube.com/watch?v=FQIG-H4rtwo",
+      "author": {
+        "id": "1340718563727642684",
+        "name": "zerofrequency__67159",
+        "discriminator": "0000",
+        "nickname": "ZeroFrequency",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1340718563727642684/2b72a1829e7d15c1b8ca083f439bf0ac.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "How to Unlock a Car with a Coat Hanger",
+          "url": "https://www.youtube.com/watch?v=FQIG-H4rtwo",
+          "timestamp": null,
+          "description": "How to Unlock a Car with a Coat Hanger. Part of the series: Car Info. Use a coat hanger to unlock your car by straightening the hanger and inserting it between the door frame and the body. Regain access to your vehicle with help from a professional auto mechanic in this free video on random car tips. Read more: http://www.ehow.com/video_6723475_...",
+          "color": "#FF0000",
+          "author": {
+            "name": "ehowauto",
+            "url": "https://www.youtube.com/channel/UCfd03W8S8DN9Rw6YJQUbgTQ"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/sBUhJjaaD5w8jRHKK6K2Y08tcVbRhfEofHDTu2cno3I/https/i.ytimg.com/vi/FQIG-H4rtwo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "video": {
+            "url": "https://www.youtube.com/embed/FQIG-H4rtwo",
+            "width": 1152,
+            "height": 720
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1353471764595998842",
+      "type": "Default",
+      "timestamp": "2025-03-23T20:53:34.969+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "it shows how you can unlock a car with just a coat hanger",
+      "author": {
+        "id": "1340718563727642684",
+        "name": "zerofrequency__67159",
+        "discriminator": "0000",
+        "nickname": "ZeroFrequency",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1340718563727642684/2b72a1829e7d15c1b8ca083f439bf0ac.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1353472081936777321",
+      "type": "Default",
+      "timestamp": "2025-03-23T20:54:50.629+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://www.youtube.com/watch?v=dpuVqMnEtIs",
+      "author": {
+        "id": "1340718563727642684",
+        "name": "zerofrequency__67159",
+        "discriminator": "0000",
+        "nickname": "ZeroFrequency",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1340718563727642684/2b72a1829e7d15c1b8ca083f439bf0ac.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "How to unlock a car door (without a key)",
+          "url": "https://www.youtube.com/watch?v=dpuVqMnEtIs",
+          "timestamp": null,
+          "description": "Unlocking 3 different cars using various tools and methods.\n\nLockout tool kit:\n1. On Amazon\nhttps://amzn.to/388GbRT\n\n2. On Ebay\nhttps://ebay.us/p9RZyU\n\nLinks to a few products I personally own and use:\nBasic Hand Tools - https://amzn.to/2I91cBb\nDrill and Impact Driver - https://amzn.to/2WCMxzI\nCordless Ratchet - https://amzn.to/2KcBsBw\nPortable ...",
+          "color": "#FF0000",
+          "author": {
+            "name": "Make It Easy Mechanic",
+            "url": "https://www.youtube.com/channel/UCQDNbE3hRniI6sc_emLLdQQ"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/fdgfLJbiCGzzSC31sX498V5dusUSTHQp2KOIQDqUTFs/https/i.ytimg.com/vi/dpuVqMnEtIs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "video": {
+            "url": "https://www.youtube.com/embed/dpuVqMnEtIs",
+            "width": 1280,
+            "height": 720
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1353475548856324206",
+      "type": "Default",
+      "timestamp": "2025-03-23T21:08:37.207+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "great , I'll watch them later",
+      "author": {
+        "id": "1349086669797589114",
+        "name": "roger_the_mechan1c_53327",
+        "discriminator": "0000",
+        "nickname": "Roger",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/2.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1355245640480985358",
+      "type": "Default",
+      "timestamp": "2025-03-28T18:22:19.937+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "dude i figure out how turn that fucking cameras offf !!!!",
+      "author": {
+        "id": "1340718563727642684",
+        "name": "zerofrequency__67159",
+        "discriminator": "0000",
+        "nickname": "ZeroFrequency",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1340718563727642684/2b72a1829e7d15c1b8ca083f439bf0ac.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1355245640031932548",
+          "url": "https://cdn.discordapp.com/attachments/1349489351653986305/1355245640031932548/PXL_20250328_165530076.jpg?ex=67eb861b&is=67ea349b&hm=881237af3f48e27a6cd8bf9eef47057e2ad6d651d585353c716b7afd0dd43f07&",
+          "fileName": "PXL_20250328_165530076.jpg",
+          "fileSizeBytes": 5165826
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1355245758278009063",
+      "type": "Default",
+      "timestamp": "2025-03-28T18:22:48.022+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "im on my way to heriot row right now !!!",
+      "author": {
+        "id": "1340718563727642684",
+        "name": "zerofrequency__67159",
+        "discriminator": "0000",
+        "nickname": "ZeroFrequency",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1340718563727642684/2b72a1829e7d15c1b8ca083f439bf0ac.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1355245791966400605",
+      "type": "Default",
+      "timestamp": "2025-03-28T18:22:56.054+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "wait for me there",
+      "author": {
+        "id": "1340718563727642684",
+        "name": "zerofrequency__67159",
+        "discriminator": "0000",
+        "nickname": "ZeroFrequency",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1340718563727642684/2b72a1829e7d15c1b8ca083f439bf0ac.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1355246500048797887",
+      "type": "Reply",
+      "timestamp": "2025-03-28T18:25:44.874+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Amazing , I'm on way too",
+      "author": {
+        "id": "1349086669797589114",
+        "name": "roger_the_mechan1c_53327",
+        "discriminator": "0000",
+        "nickname": "Roger",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/2.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1355245640480985358",
+        "channelId": "1349489351653986305",
+        "guildId": null
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1355246522815742035",
+      "type": "Default",
+      "timestamp": "2025-03-28T18:25:50.302+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Its on baby",
+      "author": {
+        "id": "1349086669797589114",
+        "name": "roger_the_mechan1c_53327",
+        "discriminator": "0000",
+        "nickname": "Roger",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/2.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1355249539103064165",
+      "type": "Default",
+      "timestamp": "2025-03-28T18:37:49.441+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I hope you tested GPS jamming too",
+      "author": {
+        "id": "1349086669797589114",
+        "name": "roger_the_mechan1c_53327",
+        "discriminator": "0000",
+        "nickname": "Roger",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/2.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1355249597517402272",
+      "type": "Default",
+      "timestamp": "2025-03-28T18:38:03.368+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Like we talked",
+      "author": {
+        "id": "1349086669797589114",
+        "name": "roger_the_mechan1c_53327",
+        "discriminator": "0000",
+        "nickname": "Roger",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/2.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 12
+}

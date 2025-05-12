@@ -1,0 +1,61 @@
+{
+  "guild": {
+    "id": "1340709945162727444",
+    "name": "Eric's Echo Chamber",
+    "iconUrl": "https://cdn.discordapp.com/icons/1340709945162727444/efadb34dc41325dbe377999e07d2679c.png?size=512"
+  },
+  "channel": {
+    "id": "1340710110762373221",
+    "type": "GuildTextChat",
+    "categoryId": "1340710073168691271",
+    "category": "Rules and Info",
+    "name": "rules",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2025-03-31T18:09:39.9724253+01:00",
+  "messages": [
+    {
+      "id": "1340711126756753449",
+      "type": "Default",
+      "timestamp": "2025-02-16T15:47:21.827+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "***Eric’s Echo Chamber – House Rules***\n1️⃣ **Respect the Vibes** – We’re all friends here, so don’t be a jerk. Keep it chill.\n2️⃣ **No Drama, No Stress** – This isn’t a soap opera. If you have beef, take it elsewhere.\n3️⃣ **Inside Jokes Stay Inside** – What happens in the Echo Chamber stays in the Echo Chamber. No leaks!\n4️⃣ **Don’t Spam (Unless It’s Funny)** – Memes, chaos, and nonsense are welcome—but don’t overdo it.\n5️⃣ **Eric’s Word is Law (Kinda)** – At the end of the day, Eric makes the rules. Deal with it.\n6️⃣ **No Ghosting** – If you disappear for too long, expect some lighthearted bullying when you return.\n7️⃣ **Invite-Only** – If you want to bring someone new in, ask first. No randoms.\n8️⃣ **Have Fun (Or Else)** – Seriously, if you're not having fun, what are you even doing here?",
+      "author": {
+        "id": "1340706353613901927",
+        "name": "ezericc_88003",
+        "discriminator": "0000",
+        "nickname": "EZericc",
+        "color": "#2ECC71",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1340711193714753639",
+            "name": "Admin+",
+            "color": "#2ECC71",
+            "position": 2
+          },
+          {
+            "id": "1340711624075509811",
+            "name": "Member",
+            "color": "#F1C40F",
+            "position": 1
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1340706353613901927/c9670df5cec50e2a7983a2670d40b791.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 1
+}
